@@ -12,7 +12,7 @@
     "supervision": "Richieste di tesi e dottorato",
     "homeMenu": {
       "overview": "Pagina principale",
-      "research": "Attività Scientifica e Collaborazioni",
+      "research": "Attivit\u00e0 Scientifica e Collaborazioni",
       "supervision": "Richieste di tesi e dottorato",
       "education": "Formazione ed esperienza",
       "collaborations": "Collaborazioni",
@@ -32,7 +32,7 @@
       "researchTitle": "Ricerca",
       "researchDesc": "Aree e competenze chiave",
       "supervisionTitle": "Richieste tesi e dottorato",
-      "supervisionDesc": "Disponibilità e temi",
+      "supervisionDesc": "Disponibilit\u00e0 e temi",
       "collabTitle": "Collaborazioni",
       "collabDesc": "Progetti attivi"
     }
@@ -40,10 +40,17 @@
   "sections": {
     "educationExperience": {
       "title": "Formazione ed esperienza",
-      "items": ["2007 - Laurea triennale in Fisica (Universit\u00e0 di Roma Tor Vergata)\\nTesi: \\\"L'effetto di lente gravitazionale sulle anisotropie della radiazione cosmica di fondo\\\"\\nRelatore: Prof. Amedeo Balbi", "2010 \u2013 Laurea Magistrale in Scienze dell\u2019Universo (Universit\u00e0 di Roma Tor Vergata)\\nTesi: \u201cThe Supernova Remnant W28: a study of particle acceleration\u201d\\nRelatore: Prof. Marco Tavani", "2013 \u2013 Dottorato di ricerca in Astronomia (Universit\u00e0 di Roma Tor Vergata)\\nTesi: \u201cThe origin of cosmic rays in supernova remnants: new challenges after a breakthrough\u201d\\nRelatore: Prof. Marco Tavani\\nLa tesi ha ricevuto il Premio ARAP (Associazione Romana per le Astro-Particelle)", "2014\u20132017 \u2013 Post-doc presso INAF \u2013 Osservatorio Astrofisico di Arcetri (Firenze)\\nHo lavorato nel gruppo di alte energie di Pasquale Blasi su modelli teorici legati all\u2019accelerazione dei raggi cosmici da parte dei resti di supernova.", "2017\u20132021 \u2013 Post-doc presso INAF\u2013IAPS - Ho lavorato principalmente sull'analisi dati gamma dal satellite AGILE e modellizzazione degli stessi e ho iniziato la mia attivit\u00e0 all'interno della collaborazione ASTRI", "2021\u2013oggi \u2013 Ricercatrice a tempo indeterminato presso INAF\u2013IAPS - Ho consolidato il mio ruolo all'interno della collaborazione ASTRI, ho iniziato a seguire il dottorando Alan Sunny e ho iniziato un lavoro indipendente legato allo studio multi-frequenza e multi-messaggero dei Pevatroni galattici anche col supporto collaborazioni esterne (es. Dr Jagdish Joshi dell'<a href=\\\"https://www.aries.res.in/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">ARIES</a> e Dr Gabriela Castelletti del <a href=\\\"https://cyt.rec.uba.ar/investigacion/institutos-3-2/instituto-uba-conicet/\\\" target=\\\"_blank\\\" rel=\\\"noopener\\\">CONICET-Universidad De Buenos Aires</a>)"]
+      "items": [
+        "2007 - Laurea triennale in Fisica (Universit\u00e0 di Roma Tor Vergata)\nTesi: \"L'effetto di lente gravitazionale sulle anisotropie della radiazione cosmica di fondo\"\nRelatore: Prof. Amedeo Balbi",
+        "2010 \u2013 Laurea Magistrale in Scienze dell\u2019Universo (Universit\u00e0 di Roma Tor Vergata)\nTesi: \u201cThe Supernova Remnant W28: a study of particle acceleration\u201d\nRelatore: Prof. Marco Tavani",
+        "2013 \u2013 Dottorato di ricerca in Astronomia (Universit\u00e0 di Roma Tor Vergata)\nTesi: \u201cThe origin of cosmic rays in supernova remnants: new challenges after a breakthrough\u201d\nRelatore: Prof. Marco Tavani\nLa tesi ha ricevuto il Premio ARAP (Associazione Romana per le Astro-Particelle)",
+        "2014\u20132017 \u2013 Post-doc presso INAF \u2013 Osservatorio Astrofisico di Arcetri (Firenze)\nHo lavorato nel gruppo di alte energie di Pasquale Blasi su modelli teorici legati all\u2019accelerazione dei raggi cosmici da parte dei resti di supernova.",
+        "2017\u20132021 \u2013 Post-doc presso INAF\u2013IAPS - Ho lavorato principalmente sull'analisi dati gamma dal satellite AGILE e modellizzazione degli stessi e ho iniziato la mia attivit\u00e0 all'interno della collaborazione ASTRI",
+        "2021\u2013oggi \u2013 Ricercatrice a tempo indeterminato presso INAF\u2013IAPS - Ho consolidato il mio ruolo all'interno della collaborazione ASTRI, ho iniziato a seguire il dottorando Alan Sunny e ho iniziato un lavoro indipendente legato allo studio multi-frequenza e multi-messaggero dei Pevatroni galattici anche col supporto collaborazioni esterne (es. Dr Jagdish Joshi dell'<a href=\"https://www.aries.res.in/\" target=\"_blank\" rel=\"noopener\">ARIES</a> e Dr Gabriela Castelletti del <a href=\"https://cyt.rec.uba.ar/investigacion/institutos-3-2/instituto-uba-conicet/\" target=\"_blank\" rel=\"noopener\">CONICET-Universidad De Buenos Aires</a>)"
+      ]
     },
     "research": {
-    "title": "Attività Scientifica e Collaborazioni",
+      "title": "Attivit\u00e0 Scientifica e Collaborazioni",
       "body": "Ho una <a href=\"pages/pubblicazioni.html\"><strong>lunga esperienza</strong></a> nella modellistica e nell'analisi dati dei processi di accelerazione dei raggi cosmici e dell'emissione gamma da sorgenti galattiche, in particolare dai resti di supernova.\n\n- Sono coautrice principale dell'articolo Giuliani, Cardillo et al. (2011), che ha mostrato la prima evidenza della presenza di raggi cosmici in uno shock di un resto di supernova grazie al satellite <a href=\"https://agile.ssdc.asi.it/overview.html\" target=\"_blank\" rel=\"noopener\"><strong>AGILE</strong></a>.\n\n- Come membro del team AGILE, ho ricevuto il Bruno Rossi Prize per la scoperta di flares gamma nella Nebulosa del Granchio (2012).\n\n- Mi occupo della gestione dell'acquisizione e dell'analisi dati da satelliti e rivelatori Cherenkov.\n\n- Nella collaborazione <a href=\"https://www.astri.inaf.it/\" target=\"_blank\" rel=\"noopener\"><strong>ASTRI</strong></a> Mini-Array sono co-coordinatrice di diversi gruppi di lavoro: Data Processing System working package, Scientific Analysis Working Group e Science Pevatron Working Group.\n\nSono membro di diversi progetti e collaborazioni, tra cui AGILE, ASTRI Mini-Array, <a href=\"https://www.ctao.org/\" target=\"_blank\" rel=\"noopener\"><strong>CTAO</strong></a>, <a href=\"https://www.ctao.org/it/emission-to-discovery/telescopes/lst/\" target=\"_blank\" rel=\"noopener\"><strong>LST-1</strong></a> e sono anche membro associato di <a href=\"https://magic.mppmu.mpg.de/\" target=\"_blank\" rel=\"noopener\"><strong>MAGIC</strong></a>.\n\nCredo molto nell'importanza della <a href=\"pages/didattica-divulgazione.html\"><strong>divulgazione</strong></a> Scientifica e per questo il mio impegno a tal riguardo \u00e8 sempre vivo e appassionato. Trovate tutte le attivit\u00e0 da me portate avanti nella <a href=\"pages/didattica-divulgazione.html\"><strong>pagina dedicata</strong></a>.",
       "focus": [
         "Analisi e modellizzazione di dati gamma",
@@ -62,8 +69,9 @@
         "Analisi multi-lunghezza d'onda"
       ],
       "legendTop": "Focus principali",
-      "legendOther": "Attività in corso"
-    },    "supervision": {
+      "legendOther": "Attivit\u00e0 in corso"
+    },
+    "supervision": {
       "title": "Richieste di tesi e dottorato",
       "bodyIntro": "Sono disponibile a supervisionare tesi triennali/magistrali e progetti di dottorato su analisi dati gamma e modellizzazione dell'accelerazione dei raggi cosmici in sorgenti galattiche, e tematiche affini. Se vuoi proporre un progetto o capire se c'? un tema in comune, <a href=\"mailto:martina.cardillo@inaf.it\">scrivimi</a>: rispondo (quasi) alla velocit? della luce.",
       "bodyDetail": "Dal 2023 sono supervisor dello studente Alan Sunny, dottorando del 39? ciclo di dottorato in <a href=\"https://phd.uniroma1.it/web/ASTRONOMY-ASTROPHYSICS-AND-SPACE-SCIENCE_nD3486_EN.aspx\" target=\"_blank\" rel=\"noopener\">Astronomy, Astrophysics and Space Science</a> delle Universit? di Tor Vergata e La Sapienza di Roma."
@@ -74,17 +82,17 @@
         {
           "title": "Dottorato in Astrofisica",
           "period": "2010-2013",
-          "place": "Università di Roma Tor Vergata"
+          "place": "Universit\u00e0 di Roma Tor Vergata"
         },
         {
           "title": "Laurea Magistrale in Astrofisica (110/110 e lode)",
           "period": "2007-2010",
-          "place": "Università di Roma Tor Vergata"
+          "place": "Universit\u00e0 di Roma Tor Vergata"
         },
         {
           "title": "Laurea Triennale in Fisica (105/110)",
           "period": "2004-2007",
-          "place": "Università di Roma Tor Vergata"
+          "place": "Universit\u00e0 di Roma Tor Vergata"
         }
       ]
     },
@@ -120,8 +128,8 @@
       "outreach": "Didattica e Divulgazione",
       "news": "News e aggiornamenti",
       "publicationsDesc": "Elenco per anno con DOI e link.",
-      "outreachDesc": "Attività divulgative e didattiche con risorse online.",
-      "newsDesc": "Nuovi paper, bandi, collaborazioni e attività recenti."
+      "outreachDesc": "Attivit\u00e0 divulgative e didattiche con risorse online.",
+      "newsDesc": "Nuovi paper, bandi, collaborazioni e attivit\u00e0 recenti."
     }
   },
   "contact": {
@@ -138,31 +146,31 @@
   },
   "outreachPage": {
     "title": "Didattica e Divulgazione",
-    "intro": "Attività divulgative per anno con link al materiale disponibile online.",
-    "ongoingTitle": "Attività di divulgazione continuative",
+    "intro": "Attivit\u00e0 divulgative per anno con link al materiale disponibile online.",
+    "ongoingTitle": "Attivit\u00e0 di divulgazione continuative",
     "teachingTitle": "Didattica universitaria e formazione",
-    "byYearTitle": "Attività divulgative per anno"
+    "byYearTitle": "Attivit\u00e0 divulgative per anno"
   },
   "newsPage": {
     "title": "News e aggiornamenti",
-    "intro": "Nuovi paper, bandi/progetti, collaborazioni e attività divulgative."
+    "intro": "Nuovi paper, bandi/progetti, collaborazioni e attivit\u00e0 divulgative."
   },
   "teaching": {
     "items": [
       {
         "title": "Astrofisica delle alte energie (docenza)",
         "period": "2022-2024",
-        "place": "Università di Roma Tor Vergata"
+        "place": "Universit\u00e0 di Roma Tor Vergata"
       },
       {
         "title": "Tutorato: Meccanica e Termodinamica",
         "period": "2012",
-        "place": "Università di Roma Tor Vergata"
+        "place": "Universit\u00e0 di Roma Tor Vergata"
       },
       {
         "title": "Tutorato Astromundus: Astrofisica extragalattica",
         "period": "2011",
-        "place": "Università di Roma Tor Vergata"
+        "place": "Universit\u00e0 di Roma Tor Vergata"
       },
       {
         "title": "Recupero di matematica (scuola secondaria)",
@@ -172,7 +180,7 @@
       {
         "title": "Tutorato: Programmazione e informatica",
         "period": "2010",
-        "place": "Università di Roma Tor Vergata"
+        "place": "Universit\u00e0 di Roma Tor Vergata"
       }
     ]
   },
