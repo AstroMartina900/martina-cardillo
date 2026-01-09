@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Didattica e divulgazione di Martina Cardillo." />
+    <title>Didattica e Divulgazione</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../assets/css/main.css?v=9" />
+    <script src="../assets/js/app.js?v=13" defer></script>
+  </head>
+  <body data-page="outreach">
+    <a class="skip-link" href="#main" data-i18n="labels.skip">Salta al contenuto</a>
+    <header class="site-header">
+      <nav class="nav">
+        <ul class="nav-links">
+          <li class="nav-dropdown">
+            <a class="nav-button" href="../index.html" aria-expanded="false" data-i18n="nav.home" data-home-link="true">
+              Home
+            </a>
+            <div class="dropdown-menu">
+              <a href="../index.html#research" data-i18n="nav.homeMenu.research">Attivit&agrave; di ricerca</a>
+              <a href="../index.html#education-experience" data-i18n="nav.homeMenu.education">Formazione</a>
+              <a href="../index.html#social" data-i18n="nav.homeMenu.social">Canali Social</a>
+            </div>
+          </li>
+          <li>
+            <a href="pubblicazioni.html" data-i18n="nav.publications">Pubblicazioni scientifiche</a>
+          </li>
+          <li>
+            <a
+              href="didattica-divulgazione.html"
+              aria-current="page"
+              data-i18n="nav.outreach"
+              >Didattica e Divulgazione</a
+            >
+          </li>
+          <li><a href="news.html" data-i18n="nav.news">News e aggiornamenti</a></li>
+          <li>
+            <a href="../index.html#supervision" data-i18n="nav.supervision">Tesi e Dottorato</a>
+          </li>
+        </ul>
+        <div class="lang-toggle" role="group" aria-label="Language">
+          <button type="button" data-lang="it" aria-pressed="true">IT</button>
+          <button type="button" data-lang="en" aria-pressed="false">EN</button>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="card reveal">
+        <div class="page-hero">
+  <div class="page-hero-text">
+    <h1 data-i18n="outreachPage.title">Didattica e Divulgazione</h1>
+    <p data-i18n="outreachPage.intro">
+          Attività divulgative per anno con link al materiale disponibile online.
+        </p>
+  </div>
+  <img src="../assets/img/Martina_Orientamenti.jpg" alt="Martina Cardillo agli orientamenti" />
+</div>
+      </section>
+
+      <section class="card reveal" style="--delay: 0.15s">
+        <h2 data-i18n="outreachPage.teachingTitle">Didattica universitaria e formazione</h2>
+        <ul id="teaching-list" class="timeline"></ul>
+      </section>
+
+      <section class="card reveal" style="--delay: 0.2s">
+        <h2 data-i18n="outreachPage.ongoingTitle">Attività continuative</h2>
+        <ul id="outreach-ongoing" class="simple-list"></ul>
+      </section>
+
+      <section class="reveal" style="--delay: 0.25s">
+        <h2 data-i18n="outreachPage.byYearTitle">Attività per anno</h2>
+        <div id="outreach-list"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p data-i18n="footer.text">Sito personale di Martina Cardillo · INAF-IAPS</p>
+    </footer>
+  </body>
+</html>

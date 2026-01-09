@@ -1,0 +1,1080 @@
+{
+  "profile": {
+    "name": "Martina Cardillo",
+    "email": "martina.cardillo@inaf.it",
+    "address": "Via del Fosso del Cavaliere 100, 00133 Roma",
+    "institute": "INAF-IAPS",
+    "inaf_url": "http://www.inaf.it/it",
+    "iaps_url": "https://www.iaps.inaf.it/it",
+    "cv_file": "CV_Martina_Cardillo_EN.pdf",
+    "photo": "assets/img/profile.jpg",
+    "orcid_url": "https://orcid.org/0000-0001-8877-3996",
+    "linkedin_url": "https://www.linkedin.com/in/martina-cardillo-00496a44/?originalSubdomain=it"
+  },
+  "social": [
+    {
+      "label": "Pi\u00f9 Spazio Per Tutti",
+      "url": "https://www.youtube.com/piuspaziopertutti",
+      "preview_image": "assets/img/youtube-thumb.png"
+    },
+    {
+      "label": "Martina Roma Caput Astri",
+      "url": "https://www.instagram.com/martinaromacaputastri/reels/?hl=en",
+      "preview_image": "assets/img/instagram-thumb.png"
+    },
+    {
+      "label": "Roma Caput Astri",
+      "url": "https://www.facebook.com/RomaCaputAstri/?locale=it_IT",
+      "preview_image": "assets/img/facebook-thumb.png"
+    }
+  ],
+  "collaborations": [
+    "AGILE",
+    "ASTRI",
+    "CTA",
+    "LST-1",
+    "MAGIC",
+    "ARIES (India)",
+    "Gabriela Castelletti (Argentina)"
+  ],
+  "publications": {
+    "byYear": {
+      "2024": [
+        {
+          "text": "Abe, K. et al,: \"A new method of reconstructing images of gamma-ray telescopes applied to the LST-1 of CTAO\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202450889"
+          ]
+        },
+        {
+          "text": "Abe, K. et al: \"A detailed study of the very high-energy Crab pulsar emission with the LST-1\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202450059"
+          ]
+        },
+        {
+          "text": "Roy, A., Joshi, J., Cardillo, M. et al.: \"Gamma-rays and Neutrinos from Giant Molecular Cloud Populations in the Galactic Plane\"",
+          "links": [
+            "https://doi.org/10.1088/1475-7516/2024/06/074"
+          ]
+        },
+        {
+          "text": "Ferrazzoli, R., Prokhorov D., Bucciantini, N., Slane, P., Vink, J., Cardillo, M. et al.: \"Discovery of a shock-compressed magnetic field in the north-western rim of the young supernova remnant RX J1713.7-3946 with X-ray polarimetry\"",
+          "links": [
+            "https://doi.org/10.3847/2041-8213/ad4a68"
+          ]
+        },
+        {
+          "text": "Giuliani, A. & Cardillo, M.: \"Supernova Remnants in gamma rays\"",
+          "links": [
+            "https://doi.org/10.3390/universe10050203"
+          ]
+        }
+      ],
+      "2023": [
+        {
+          "text": "Abe, H et al.: \"Performance of the joint LST-1 and MAGIC observations evaluated with Crab Nebula data\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202346927"
+          ]
+        },
+        {
+          "text": "Abe, H. et al.: \"Star tracking for pointing determination of Imaging Atmospheric Cherenkov Telescopes: Application to the Large-Sized Telescope of the Cherenkov Telescope Array\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202347128"
+          ]
+        },
+        {
+          "text": "Tavani, M. et al.: \"AGILE Gamma-Ray Detection of the Exceptional GRB 221009A\"",
+          "links": [
+            "https://doi.org/10.3847/2041-8213/acfaff"
+          ]
+        },
+        {
+          "text": "Abe et al.: \"Observations of the Crab Nebula and Pulsar with the Large-sized Telescope Prototype of the Cherenkov Telescope Array\"",
+          "links": [
+            "https://doi.org/10.3847/1538-4357/ace89d"
+          ]
+        },
+        {
+          "text": "Roy, Abhijit; Joshi, Jagdish C.; Cardillo, Martina et al.: \"Interpreting the GeV-TeV gamma- ray spectra of local giant molecular clouds using GEANT4 simulation\"",
+          "links": [
+            "https://doi.org/10.1088/1475-7516/2023/08/047"
+          ]
+        },
+        {
+          "text": "Acero et al.: \"Sensitivity of the Cherenkov Telescope Array to spectral signatures of hadronic PeVatrons with application to Galactic Supernova Remnants\"",
+          "links": [
+            "https://doi.org/10.1016/j.astropartphys.2023.102850"
+          ]
+        },
+        {
+          "text": "M.Cardillo & A.Giuliani, 2023, Appl. Sci.,13, 6433, The LHAASO PeVatron Bright Sky: What We Learned.",
+          "links": [
+            "https://doi.org/10.3390/app13116433"
+          ]
+        },
+        {
+          "text": "M. Cardillo for the ASTRI project, 2023, Proceedings of Science, accepted, \"The ASTRI Mini-Array: in the search for hidden Pevatrons\"",
+          "links": [
+            "https://doi.org/10.48550/arXiv.2302.10059"
+          ]
+        }
+      ],
+      "2022": [
+        {
+          "text": "S. Vercellone, C. Bigongiari, A. Burtovoi, M. Cardillo et al, 2022, JHEAP, 35, 1 V \" ASTRI Mini-Array Core Science at the Observatorio del Teide \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2022JHEAp..35....1V/abstract"
+          ]
+        },
+        {
+          "text": "D'A\u00ec, E. Amato, A. Burtovoi, A. A. Compagnino, M. Fiori, A. Giuliani, N. La Palombara, A. Paizis, G. Piano, F. G. Saturni, A. Tutone, A. Belfiore, M. Cardillo et al., JHEAP, 35, 139, \"Galactic observatory science with the ASTRI Mini-Array at the Observatorio del Teide\"",
+          "links": [
+            "https://www.sciencedirect.com/science/article/abs/pii/S2214404822000350"
+          ]
+        },
+        {
+          "text": "Saturni, F. G.; Arcaro, C. H. E.; Balmaverde, B.; Becerra Gonz\u00e1lez, J.; Caccianiga, A.; Capalbi, M.; Lamastra, A.; Lombardi, S.; Lucarelli, F.; Alves Batista, R.; Antonelli, L. A.; de Gouveia Dal Pino, E. M.; Della Ceca, R.; Green, J. G.; Pagliaro, A.; Righi, C.; Tavecchio, F.; Vercellone, S.; Wolter, A.; Amato, E.; Bigongiari, C.; B\u00f6ttcher, M.; Brunetti, G.; Bruno, P.; Bulgarelli, A.; Cardillo, M. et al, 2022, JHEAP, 35, 91, \"Extragalactic observatory science with the ASTRI mini-array at the Observatorio del Teide \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2022JHEAp..35...91S/abstract"
+          ]
+        },
+        {
+          "text": "Scuderi, S.; Giuliani, A.; Pareschi, G.; Tosti, G.; Catalano, O.; Amato, E.; Antonelli, L. A.; Becerra Gonz\u00e0les, J.; Bellassai, G.; Bigongiari, C.; Biondo, B.; B\u00f6ttcher, M.; Bonanno, G.; Bonnoli, G.; Bruno, P.; Bulgarelli, A.; Canestrari, R.; Capalbi, M.; Caraveo, P.; Cardillo, M. et al., 2022, JHEAP, 35, 52, \"The ASTRI Mini-Array of Cherenkov telescopes at the Observatorio del Teide\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2022JHEAp..35...52S/abstract"
+          ]
+        },
+        {
+          "text": "Ursi, A., Romani, M., Piano, G., Verrecchia, F., Longo, F., Pittori, C., Tavani, M.m Bulgarelli, A., Cardillo, M. et al., 2022, ApJ, 933, 214 \"AGILE Observations of GRB 220101A: A \"New Year's Burst\" with an Exceptionally Huge Energy Release\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2022arXiv220514199U/abstract"
+          ]
+        },
+        {
+          "text": "Ursi A., Romani M, Verrecchia F, Pittori C, Tavani M., Marisaldi M.,Galli M., Labanti C., Parmiggiani N., Bulgarelli A., Addis A., Baroncelli L., Cardillo M. et al. 2022, ApJ, 925, 152, \"The Second AGILE MCAL Gamma-Ray Burst Catalog: 13 yr of Observations\"",
+          "links": [
+            "https://iopscience.iop.org/article/10.3847/1538-4357/ac3df7/pdf"
+          ]
+        },
+        {
+          "text": "Ursi A., Verrecchia F, Piano G., Casentini, C., Tavani M., Bulgarelli A., Cardillo M. et al. 2022, ApJ, 924, 80, \"AGILE Observations of the LIGO-Virgo Gravitational-wave Events of the GWTC-1 Catalog\"",
+          "links": [
+            "https://iopscience.iop.org/article/10.3847/1538-4357/ac332f/pdf"
+          ]
+        },
+        {
+          "text": "Abe et al. 2022, \"Multi-wavelength study of the galactic PeVatron candidate LHAASO J2108+5157\", 2022arXiv221000775A",
+          "links": [
+            "https://arxiv.org/pdf/2210.00775.pdf"
+          ]
+        },
+        {
+          "text": "Rodriguez-Fernandez G., Bigongiari C., Bulgarelli A., Camarri P., Cardillo M. et al., 2022, \"STACEX: RPC-based detector for a multi-messenger observatory in the Southern Hemisphere\", 2022icrc.confE.715R",
+          "links": [
+            "https://arxiv.org/pdf/2109.08594.pdf"
+          ]
+        }
+      ],
+      "2021": [
+        {
+          "text": "Verrecchia, F.,Casentini, C., Tavani, M., Ursi, A., Mereghetti, S., Pilia, M., Cardillo, M. et al. 2021, ApJ, 915, 102V, \"AGILE Observations of Fast Radio Bursts\"",
+          "links": [
+            "https://iopscience.iop.org/article/10.3847/1538-4357/abfda7/pdf"
+          ]
+        },
+        {
+          "text": "Tavani, M, Casentini, C., Ursi, A., Verrecchia, F., Addis, A., Antonelli, L. A., Argan, A., Barbiellini, G., Baroncelli, L., Bernardi, G. ; Bianchi, G., Bulgarelli, A., Caraveo, P., Cardillo, M. et al. 2021, NatAs 5, 401Y, \" An X-ray burst from a magnetar enlightening the mechanism of fast radio bursts\"",
+          "links": [
+            "https://www.nature.com/articles/s41550-020-01276-x"
+          ]
+        },
+        {
+          "text": "Boisson et al., 2021, arXiv:2106.05971, \"Probing extreme environments with the Cherenkov Telescope Array\"",
+          "links": [
+            "https://arxiv.org/pdf/2106.05971.pdf"
+          ]
+        },
+        {
+          "text": "Bo\u0161njak, \u017d. et al., 2021, arXiv:2106.03621, \"Multi-messenger and transient astrophysics with the Cherenkov Telescope Array\"",
+          "links": [
+            "https://arxiv.org/pdf/2106.03621.pdf"
+          ]
+        },
+        {
+          "text": "Araudo et al., 2021, arXiv:2106.03599, \"Origin and role of relativistic cosmic particles\"",
+          "links": [
+            "https://arxiv.org/pdf/2106.03599.pdf"
+          ]
+        }
+      ],
+      "2020": [
+        {
+          "text": "Ursi, A., Tavani, M., Frederiks, D. D., Romani, M., Verrecchia, F., Marisaldi, M., Aptekar, R. L., Antonelli, L. A., Argan, A., Bulgarelli, A., Barbiellini, G., Caraveo, P., Cardillo, M. et al. 2020, ApJ 904, 133U, \"AGILE and Konus-Wind Observations of GRB 190114C: The Remarkable Prompt and Early Afterglow Phases\"",
+          "links": [
+            "https://iopscience.iop.org/article/10.3847/1538-4357/abc2d4/pdf"
+          ]
+        },
+        {
+          "text": "Casentini, C.; Verrecchia, F.; Tavani, M.; Ursi, A.; Antonelli, L. A.; Argan, A.; Barbiellini, G.; Bulgarelli, A.; Caraveo, P.; Cardillo, M. et al., 2020, ApJ, 890L, 32C, \" AGILE Observations of Two Repeating Fast Radio Bursts with Low Intrinsic Dispersion Measures\"",
+          "links": [
+            "https://iopscience.iop.org/article/10.3847/2041-8213/ab720a/pdf"
+          ]
+        },
+        {
+          "text": "Lombardi, S.; Catalano, O.; Scuderi, S.; Antonelli, L. A.; Pareschi, G.; Antolini, E.; Arrabito, L.; Bellassai, G.; Bernloehr, K.; Bigongiari, C.; Biondo, B.; Bonanno, G.; Bonnoli, G.; Bottcher, G. M.; Bregeon, J.; Bruno, P.; Canestrari, R.; Capalbi, M.; Caraveo, P.; Conconi, P. Conforti, V.; Contino, G.; Cusumano, G.; de Gouveia Dal Pino, M.; Distefano, A.; Farisato, G.; Fermino, C.; Fiorini, M.; Frigo, A.; Gallozzi, S.; Gargano, C.; Garozzo, S.; Gianotti, F.; Giarrusso, S.; Gimenes, R.; Giro, E.; Grillo, A.; Impiombato, D.; Incorvaia, S.; La Palombara, N.; La Parola, V.; La Rosa, G.; Leto, G.; Lucarelli, F.; Maccarone, M. C.; Marano, D.; Martinetti, E.; Micciche, A.; Millul, R.; Mineo, T.; Nicotra, G.; Occhipinti, G.; Pagano, I.; Perri, M.; Romeo, G.; Russo, F.; Russo, F.; Sacco, B.; Sangiorgi, P.; Saturni, F. G.; Segreto, A.; Sironi, G.; Sottile, G.; Stamerra, A.; Stringhetti, L.; Tagliaferri, G.; Tavani, M.; Testa, V.; Timpanaro, M. C.; Toso, G.; Tosti, G.; Trifoglio, M.; Umana, G.; Vercellone, S.; Zanmar Sanchez, R.; Arcaro, C.; Bulgarelli, A.; Cardillo, M et al., 2020, A&A, 634, \"First detection of the Crab Nebula at TeV energies with a Cherenkov telescope in dual-mirror Schwarzschild-Couder configuration: the ASTRI-Horn telescope \"",
+          "links": [
+            "https://www.aanda.org/articles/aa/abs/2020/02/aa36791-19/aa36791-19.html"
+          ]
+        }
+      ],
+      "2019": [
+        {
+          "text": "MAGIC collaboration; (...) Ursi, A.; Tavani, M.; Cardillo, M. et al., 2019, Nature, 575..459M, \"Observation of inverse Compton emission from a long gamma-ray burst\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019Natur.575..459M/abstract"
+          ]
+        },
+        {
+          "text": "Cardillo, M., \", 2019, Galaxies, 7, 49 \"The important Role of Cosmic-Ray Re-Acceleration",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019Galax...7...49C/abstract"
+          ]
+        },
+        {
+          "text": "Piano, G., Cardillo, M. et al., 2019, ApJ, 878, 54P, \" AGILE study of the gamma-ray emission from the SNR G78.2+2.1 (Gamma Cygni) \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019ApJ...878...54P/abstract"
+          ]
+        },
+        {
+          "text": "Bulgarelli, A., Fioretti, V., Parmiggiani, N., Verrecchia, F., Pittori, C., Lucarelli, F., Tavani, M., Aboudan, A., Cardillo, M. et al., 2019, A&A, 627A, 13B, \"The second AGILE Catalog of Gamma- Ray Sources\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019A%26A...627A..13B/abstract"
+          ]
+        },
+        {
+          "text": "Verrecchia F., Tavani, M., Bulgarelli, A., Cardillo, M. et al., 2019, RLSFN, 33V, \"AGILE search for gamma-ray counterparts of gravitational wave events\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019RLSFN.tmp...33V/abstract"
+          ]
+        },
+        {
+          "text": "Cardillo M., 2019, RLSFN, 25C, \"Gamma-ray astronomy as a milestone in the Cosmic Ray origin issue \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019RLSFN.tmp...25C/abstract"
+          ]
+        },
+        {
+          "text": "Cardillo, M., Marchili, N., Piano, G. et al., 2019, A&A, 622, 57, \" The Orion Region: evidence of enhanced Cosmic Rays density in a Stellar Wind Forward Shock interaction with a high density shell.\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2019A%26A...622A..57C"
+          ]
+        },
+        {
+          "text": "Loru, S., Pellizzoni, A., Egron, E., Righini, S., Iacolina, M.N., Milas, S., Cardillo, M. et al., 2018, MNRAS, 482, 3857, \" Investigating the high-frequency spectral features of SNRs Tycho, W44 and IC443 with the Sardinia Radio Telescope \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2019MNRAS.482.3857L"
+          ]
+        },
+        {
+          "text": "Lucarelli, F., M. Tavani, G. Piano, A. Bulgarelli, I. Donnarumma, F. Verrecchia, C. Pittori, L. A. Antonelli, A. Argan, G. Barbiellini, P. Caraveo, M. Cardillo et al., 2018, ApJ, 870, 136, \" AGILE detection of gamma-ray sources coincident with cosmic neutrino events \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2018arXiv181107689L"
+          ]
+        },
+        {
+          "text": "Di Sciascio, G.; Camarri, P.; Santonico, R.; Cardillo, M. et al., \"STACEX: RPC-based detector for a multi-messenger observatory \", 2019ICRC, 36, 210",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019ICRC...36..660D/abstract"
+          ]
+        },
+        {
+          "text": "M. Cardillo, \"The role of re-acceleration in the understanding of Cosmic-Ray direct and indirect data\", 2019ICRC, 36, 210",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019ICRC...36..210C/abstract"
+          ]
+        }
+      ],
+      "2018": [
+        {
+          "text": "Marchili, N.; Piano, G.; Cardillo, M. et al., 2018, A&A, 615, 82, \" A new gamma-ray source unveiled by AGILE in the region of Orion nebula\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2018A%26A...615A..82M"
+          ]
+        },
+        {
+          "text": "Cattaneo, P.W., Rappoldi, A., Argan, A., Barbiellini, G., Boffelli, F., Bulgarelli, A.m Buonomo, B., Cardillo, M. et al., 2018, ApJ, 861, 125, \" Calibration of AGILE-GRID with On-ground Data and Monte Carlo Simulations\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2018ApJ...861..125C"
+          ]
+        },
+        {
+          "text": "Lombardi, S.; Antonelli, L.A.; Bigongiari, C.; Cardillo, M. et al., 2018, SPIE, \"ASTRI data reduction software in the framework of the Chrenkov Telescope Array\"",
+          "links": [
+            "https://spie.org/Publications/Proceedings/Paper/10.1117/12.2311293"
+          ]
+        }
+      ],
+      "2017": [
+        {
+          "text": "Verrecchia, F.; Tavani, M.; Donnarumma, I.; Bulgarelli, A.; Evangelista, Y.; Pacciani, L.; Ursi, A.; Piano, G.; Pilia, M.; Cardillo, M. et al., 2017, ApJ, 850, 27V, \" AGILE Observations of the Gravitational-wave Source GW170817: Constraining Gamma-Ray Emission from an NS-NS Coalescence \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017ApJ...850L..27V"
+          ]
+        },
+        {
+          "text": "E. Egron, A. Pellizzoni, M.N. Iacolina, S.Loru, M. Marongiu, S.Righini, M.Cardillo et al., 2017, MNRAS, 470, 1329, \" Imaging of SNR IC443 and W44 with the Sardinia Radio Telescope at 1.5 GHz and 7 GHz.\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017MNRAS.470.1329E"
+          ]
+        },
+        {
+          "text": "F.Verrecchia et al., 2017, ApJ, 847L, 20V \" AGILE observations of the GW source GW170104 \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017ApJ...847L..20V"
+          ]
+        },
+        {
+          "text": "Abbott et al., 2017, ApJ, 848L, 12A, \" Multi-messenger Observations of a Binary Neutron Star Merger\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017ApJ...848L..12A"
+          ]
+        },
+        {
+          "text": "De Angelis, A. et al., 2017, ExA, 44, 25D, \" The e-ASTROGAM mission. Exploring the extreme Universe with gamma rays in the MeV - GeV range \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017ExA....44...25D"
+          ]
+        },
+        {
+          "text": "De Angelis, A. et al., 2017, arXiv:1711.01265, \"Science with e-ASTROGAM (A space mission for MeV-GeV gamma-ray astrophysics)\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017arXiv171101265D"
+          ]
+        },
+        {
+          "text": "V. Taticheff et al., 2017, proceeding SPIE, \" The e-ASTROGAM gamma-ray space mission \", 2016SPIE.9905E..2NT",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2016SPIE.9905E..2NT"
+          ]
+        },
+        {
+          "text": "Egron, E.; Pellizzoni, A.; Iacolina, M. N.; Loru, S.; Marongiu, M.; Righini, S.; Cardillo, M.; et al., 2017, 2017, IAUS, 331, 184E, \"High-resolution imaging of SNR IC443 and W44 with the Sardinia Radio Telescope\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017IAUS..331..184E"
+          ]
+        },
+        {
+          "text": "Pellizzoni, A.; Egron, E.; Iacolina, M. N.; Loru, S.; Marongiu, M.; Righini, S.; Cardillo, M.; et al., 2017, IAUS..331..194P, \"Evidence for a wide electron spectra scatter among different SNR regions from high radio-frequency observations\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2017IAUS..331..194P"
+          ]
+        }
+      ],
+      "2016": [
+        {
+          "text": "M.Tavani, on behalf of AGILE collaboration, 2016, ApJ, 825, 4T, \"AGILE Observations of the Gravitational-wave Event GW150914\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2016ApJ...825L...4T"
+          ]
+        },
+        {
+          "text": "M.Cardillo, E.Amato, P.Blasi, A&A, 595, 58, 2016,\" The Supernova Remnant W44:a case of Cosmic Ray reacceleration. \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2016A%26A...595A..58C"
+          ]
+        },
+        {
+          "text": "M.Cardillo, E.Amato, P.Blasi, 2016, \" The middle aged SNRs W44: most likely reacceleration without any break \", sros.confE, 90C",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2016sros.confE..90C"
+          ]
+        },
+        {
+          "text": "P.Soffitta et al., 2016, proceeding SPIE, \" XIPE: the X-ray imaging polarimetry explorer \", 2016SPIE.9905E..15S",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2016A%26A...595A..58C"
+          ]
+        }
+      ],
+      "2015": [
+        {
+          "text": "M.Cardillo, E.Amato, P.Blasi, 2015, APh, 69, 1C, \" On the cosmic ray spectrum from type II supernovae expanding in their red giant presupernova wind\"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2015APh....69 1C"
+          ]
+        },
+        {
+          "text": "M.Cardillo, E.Amato, P. Blasi, 2015, \" On the cosmic ray spectrum from type II Supernovae expanding in their red giant presupernova wind \", ICRC, 34, 531C",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2015ICRC...34..531C"
+          ]
+        },
+        {
+          "text": "M. Cardillo, 2015, \"On the cosmic ray spectrum from type II Supernovae expanding in their red giant presupernova wind \", EPJWC, 10502004C",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2015EPJWC.10502004C"
+          ]
+        },
+        {
+          "text": "M. Cardillo, 2015, \"Cosmic-ray world with gamma-ray astronomy: a wealth on information, an even more open issue \", EPJWC, 9003001C",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2015EPJWC..9003001C"
+          ]
+        }
+      ],
+      "2014": [
+        {
+          "text": "F. de Gasperin, C. Evoli, M. Bruggen, A. Hektor, M. Cardillo et al., 2014, A&A, 568, A107, \"Discovery of the supernova remnant G351.0-5.4 \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2014A%26A...568A.107D"
+          ]
+        },
+        {
+          "text": "M.Cardillo, M. Tavani, A.Giuliani, 2014, NuPhS, 256, 65 \" The origin of Cosmic-Rays from SNRs: confirmations and challenges after the first direct proof \".harvard.edu/abs/2014NuPhS.256...65C",
+          "links": []
+        },
+        {
+          "text": "M. Cardillo, M.Tavani, A.Giuliani et al., 2014, A&A, 565, 74-85, \" The supernova remnant W44: confirmations and challenges for cosmic-ray acceleration \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2014A%26A...565A..74C"
+          ]
+        }
+      ],
+      "2013": [
+        {
+          "text": "F.Verrecchia et al., AGILE COLLABORATION, 2013, A&A, 558, 137V, \" An updated list of AGILE bright gamma-ray sources and their variability in pointing mode \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2013A%26A...558A.137V"
+          ]
+        },
+        {
+          "text": "A. Morselli et al., ASTROGAM COLLABORATION, 2013, NuPhS, 239, 193, \" Gamma-Light: High-Energy Astrophysics above 10 MeV \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2013NuPhS.239..193M"
+          ]
+        },
+        {
+          "text": "E. Striani et al., AGILE COLLABORATION, 2013, ApJ, 765, 52S, \" Variable Gamma-Ray Emission from the Crab Nebula: Short Flares and Long \"Waves \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2013ApJ...765...52S"
+          ]
+        }
+      ],
+      "2012": [
+        {
+          "text": "M.Cardillo, A.Giuliani, M. Tavani, 2012, PhCS, 383, 0122007-01220012, \" The SNR W44: an ideal laboratory for Cosmic-Ray acceleration \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2012JPhCS.383a2007C"
+          ]
+        },
+        {
+          "text": "F. Longo et al., AGILE COLLABORATION, 2012, A&A, 547, 95L, \" Upper limits on the high- energy emission from gamma-ray bursts observed by AGILE-GRID \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2012A%26A...547A..95L"
+          ]
+        },
+        {
+          "text": "G. Piano et al., AGILE COLLABORATION, 2012, A&A, 545, 110P, \" The AGILE monitoring of Cygnus X-3: transient gamma-ray emission and spectral constraints \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2012A%26A...545A.110P"
+          ]
+        },
+        {
+          "text": "M.Cardillo, A.Giuliani, M.Tavani, 2012, \" AGILE and SNRs: A comparison between W44 and W28\", AIP, 1505, 221-224",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2012AIPC.1505..221C"
+          ]
+        }
+      ],
+      "2011": [
+        {
+          "text": "E. Striani et al., AGILE COLLABORATION, 2011, ApJ, 741, 5S, \" The Crab Nebula Super-flare in 2011 April: Extremely Fast Particle Acceleration and Gamma-Ray Emission \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2011ApJ...741L...5S"
+          ]
+        },
+        {
+          "text": "S. Vercellone et al., AGILE COLLABORATION, 2011, ApJ, 736, 38V, \" The Brightest Gamma- Ray Flaring Blazar in the Sky: AGILE and Multi-wavelength Observations of 3C 454.3 During 2010 November \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2011ApJ...736L..38V"
+          ]
+        },
+        {
+          "text": "A. Giuliani, M.Cardillo, M.Tavani et al., 2011, ApJ, 742, L30, \" Neutral pion emission from accelerated protons in the Supernova Ramnant W44 \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2011ApJ...742L..30G"
+          ]
+        },
+        {
+          "text": "A. Giuliani, M.Cardillo and M.Tavani, 2011, \" AGILE observations of Supernova Remnants \", Fermi Symposium proceedings - eConf C110509, arXiv1111.3592",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2011arXiv1111.3592G"
+          ]
+        }
+      ],
+      "2010": [
+        {
+          "text": "A.Giuliani, M. Tavani, A. Bulgarelli, E. Striani, S. Sabatini, M. Cardillo et al, AGILE COLLABORATION, 2010, A&A, 516L, 11G, \" AGILE detection of GeV gamma-ray emission from the SNR W28 \"",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2010A%26A...516L..11GProceedings:"
+          ]
+        },
+        {
+          "text": "A. Giuliani, M. Tavani, G. Piano, M. Cardillo et al, 2010, \" Middle-aged Supernova Remnants with AGILE \", tsra.confE, 125 Honours and awards [2014] ARAP prize (Associazione Romana per le Astro-Particelle) 2013 I won this award for my PhD thesis: \"The origin of cosmic-rays in Supernova Remnants: new challenges after a breakthrough\" and (in italian) \"per aver concorso, all'interno della Collaborazione AGILE alla scoperta della natura adronica dei segnali gamma di alta energia da resti di Supernovae\". Fellowship of the Angelo Della Riccia fundation. I won this fellowship to go 6 months in France at Laboratoire APC - CNRS/Universit\u00e9 Paris 7 Denis Diderot and work with Dr Stefano Gabici. I declined this fellowship because I won a post- doc position for two years at the Osservatorio Astrofisico di Arcetri.",
+          "links": [
+            "http://adsabs.harvard.edu/abs/2010tsra.confE.125G"
+          ]
+        }
+      ],
+      "2025": [
+        {
+          "text": "Abe, K. et al.: \"GRB 221009A: Observations with LST-1 of CTAO and Implications for Structured Jets in Long Gamma-Ray Bursts\"",
+          "links": [
+            "https://doi.org/10.3847/2041-8213/ade4cf"
+          ]
+        },
+        {
+          "text": "Abe, K. et al. \"Detection of the Geminga pulsar at energies down to 20 GeV with the LST-1 of CTAO\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202554350"
+          ]
+        },
+        {
+          "text": "Abe, K. et al. \"Detection of RS Oph with LST-1 and modelling of its HE/VHE gamma-ray emission\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202452447"
+          ]
+        }
+      ]
+    }
+  },
+  "outreach": {
+    "ongoing": [
+      {
+        "text": "Several activities within INAF-IAPS:<ul class=\"outreach-sublist\"><li>project <strong>\"Circuito Cinema\"</strong></li><li>project <strong>\"Spazio Aperto\"</strong>, a science outreach program in Rebibbia prison</li><li>seminars in schools</li><li>content organization of the INAF exhibition <strong>\"Macchine del Tempo\"</strong> in Rome (November)</li><li>In the <a href=\"https://storie.inaf.it/\" target=\"_blank\" rel=\"noopener\">Gruppo Storie</a> (member since 2020) of INAF I am involved in several activities that will continue in the future: podcast <a href=\"https://edu.inaf.it/approfondimenti/astrokids/martina-tremenda-podcast/\" target=\"_blank\" rel=\"noopener\">Martina Tremenda</a> and a science column for children <a href=\"https://edu.inaf.it/briciole-spaziali\" target=\"_blank\" rel=\"noopener\">Briciole Spaziali</a> (&lt;14 years)</li><li>development of a second comics project (Frammenti di cielo^2)</li><li>development of the comic <a href=\"https://edu.inaf.it/wp-content/uploads/2023/10/Frammenti-di-cielo-ONLINE.pdf\" target=\"_blank\" rel=\"noopener\">Frammenti di Cielo</a></li><li><a href=\"https://edu.inaf.it/approfondimenti/scoperte/messaggero-delle-stelle-teatro/\" target=\"_blank\" rel=\"noopener\">articles</a> and festival participation</li><li>I am a member of <a href=\"https://sites.google.com/inaf.it/universall/home\" target=\"_blank\" rel=\"noopener\">Univers@ll</a>, the INAF team dedicated to inclusion and diversity</li><li>I am co-responsible with Dr. Anna Wolter (IASF Milan) for outreach in the ASTRI MA project</li></ul>",
+        "links": []
+      },
+      {
+        "text": "Collaboration with the <a href=\"https://www.rioneroma.it/\" target=\"_blank\" rel=\"noopener\">Rione Roma</a> association for tour guide events in Rome dedicated to astronomy. A concrete outcome of the project is the <a href=\"https://e-mot.net/\" target=\"_blank\" rel=\"noopener\">Museo degli Alberi</a>, a free app that lets you take a walk around Rome through botany, art, society, and astronomy",
+        "links": []
+      },
+      {
+        "text": "Collaboration with the <a href=\"https://daphne.verne.app/\" target=\"_blank\" rel=\"noopener\">Daphne</a> project: cultural and interdisciplinary events bringing together literature, music, visual arts, philosophy, and science.",
+        "links": []
+      },
+      {
+        "text": "Collaboration with <a href=\"https://www.astronomitaly.com/\" target=\"_blank\" rel=\"noopener\">Astronomitaly</a> for outreach activities and observing sessions.",
+        "links": []
+      },
+      {
+        "text": "Collaboration with the online magazine <a href=\"https://www.verbumpress.it/\" target=\"_blank\" rel=\"noopener\">Verbum Press</a> with my column <strong>\"Bolle Spaziali\"</strong>.",
+        "links": []
+      },
+      {
+        "text": "I host my own column <strong>\"A Spazio con Marty\"</strong> on the radio program <strong>\"Avanti Tutta\"</strong> on <a href=\"https://www.radiokaositaly.com/trasmissioni/dirette/avanti-tutta/\" target=\"_blank\" rel=\"noopener\">Radio Kaos Italy</a>, where I talk about astrophysics.",
+        "links": []
+      },
+      {
+        "text": "YouTube <a href=\"https://www.youtube.com/piuspaziopertutti\" target=\"_blank\" rel=\"noopener\">channel</a> dedicated to science and space outreach. My videos are used on the <a href=\"https://edu.inaf.it/pillole-martina-cardillo/\" target=\"_blank\" rel=\"noopener\">Edu-INAF</a> page.",
+        "links": []
+      },
+      {
+        "text": "Astrophysics outreach in Roman dialect on <a href=\"https://www.facebook.com/RomaCaputAstri/?locale=it_IT\" target=\"_blank\" rel=\"noopener\">Facebook</a>.",
+        "links": []
+      }
+    ],
+    "byYear": {
+      "2025": [
+        {
+          "text": "Second <strong>\"Open Day\"</strong> of my INAF-IAPS institute, an event for university students to present our active research and future perspectives.",
+          "links": [
+            "https://www.iaps.inaf.it/it/eventi/incontri-con-il-pubblico/open-day-iaps-2025"
+          ]
+        },
+        {
+          "text": "Two short astronomy videos for the <a href=\"https://www.ctna.it\" target=\"_blank\" rel=\"noopener\">CTNA</a> for the <strong>\"National Space Day 2025\"</strong>.",
+          "links": [
+            "https://www.ctna.it/giornata-nazionale-dello-spazio/news-from-space-2025/"
+          ]
+        },
+        {
+          "text": "Invited speaker at the ADTRAN event at Villa Merini (October 9).",
+          "links": []
+        },
+        {
+          "text": "Invited speaker at the event <strong>\"Un viaggio tra memoria e innovazione\"</strong> organized by FNP for Grandparents' Day.",
+          "links": []
+        },
+        {
+          "text": "Invited speaker in a conversation at the <strong>\"Festival d'Arte, Scienza e Inclusione Sociale\"</strong> of the IncontroLuce association in Florence (September 20).",
+          "links": []
+        },
+        {
+          "text": "Invited speaker in a double interview at the <strong>\"L\u00e0 Fuori Festival\"</strong> (June 21):",
+          "links": [
+            "https://www.lafuorifestival.it/"
+          ]
+        },
+        {
+          "text": "Invited to give a lecture at the Astronomy School of the Associazione Tuscolana di Astronomia (February 26).",
+          "links": [
+            "https://lnx.ataonweb.it/wp/2024/12/tutti-a-scuola-di-astronomia-a-gennaio-parte-il-corso-star-academy-2/"
+          ]
+        }
+      ],
+      "2024": [
+        {
+          "text": "I was invited to <strong>\u201cFestival Orientamenti\u201d</strong> (November 15th) problemi-che-abbiamo-qui-incontro-con-martina-cardillo",
+          "links": [
+            "https://festival.orientamenti.regione.liguria.it/programma/ma-che-ci-andate-a-fare-nello-spazio-con-tutti-i-problemi-che-abbiamo-qui-incontro-con-martina-cardillo"
+          ]
+        },
+        {
+          "text": "I was invited to a <strong>\u201cScientific Dinner\u201d</strong> organized by the Associazione Tuscolana di Astronomia (May 30):",
+          "links": [
+            "https://lnx.ataonweb.it/wp/il-cenacolo-scientifico/"
+          ]
+        },
+        {
+          "text": "I was invited to a <strong>\u201cScientific Dinner\u201d</strong> organized by The Zonta Club for Rom Parioli, very active in the issue of women presence in STEM disciplines (TBD):",
+          "links": [
+            "https://www.zontaromaparioli.org/"
+          ]
+        },
+        {
+          "text": "I organized the first <strong>\u201cOpen Day\u201d</strong> of my institute INAF-IAPS, an event dedicated to University Students in order to show our active researches and their future possibilities in our institute:",
+          "links": [
+            "https://www.iaps.inaf.it/it/eventi/incontri-con-il-pubblico/open-day-iaps-2024"
+          ]
+        },
+        {
+          "text": "I held two seminars (one on Gamma-Rays and another one on the Importance of the Space and Astrophysical research in our life) during the Open Day of our Research Area CNR+INAF on the occasion of the <strong>\u201cFestival della Bioeconomia\u201d</strong>",
+          "links": [
+            "https://sites.google.com/view/openday-festivalbioeconomia/home-page"
+          ]
+        },
+        {
+          "text": "I was invited to hold a webinar about my work from the Regione Liguria on the occasion of <strong>\u201cGiornata Internazionale della Donna\u201d</strong>",
+          "links": [
+            "https://progettiamocilfuturo.it/2024/02/26/webinar-8-marzo-2024/"
+          ]
+        },
+        {
+          "text": "I held the <strong>\u201cSpot Event: Lo Spazio fa bene all\u2019umanit\u00e0. Sempre.\u201d</strong> In the <strong>\u201cMacchine del tempo\u201d</strong> exhibition of INAF at Palazzo delle Esposizioni of Rome:",
+          "links": [
+            "https://macchinedeltempo.inaf.it/index.php/prossimi-eventi/eventi_luna/"
+          ]
+        },
+        {
+          "text": "I was invited from Dr Marco Casolino as a guest in one of his live events to speak about my scientific role and work:",
+          "links": [
+            "https://www.youtube.com/watch?v=TDJPKTwpquM"
+          ]
+        },
+        {
+          "text": "I was invited to hold a seminar to primary and secondary classes of the IC Via Casal Bianco for the <strong>\u201cGiornata Internzionale per le Donne e le Ragazze nella Scienza\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "I was invited to perform some of my poems and monologues for the event <strong>\u201cCreativit\u00e0 femminile e metodologia scientifica\u201d</strong> organized by the <strong>\u201cRete per la parit\u00e0\u201d</strong> at the headquarters of CNR:",
+          "links": [
+            "https://www.youtube.com/watch?v=hg8C1cWvmxg"
+          ]
+        }
+      ],
+      "2023": [
+        {
+          "text": "I did an online Q&A session with a primary school in Cremona",
+          "links": []
+        },
+        {
+          "text": "I was invited to hold the outreach seminar <strong>\u201cGamma-Ray Busters: a caccia di raggi gamma\u201d</strong> at the <strong>\u201cPomeriggi di Scienza\u201d</strong> of the INFN (Frascati): 768951443467",
+          "links": [
+            "https://www.eventbrite.it/e/biglietti-gamma-ray-busters-a-caccia-di-raggi-gamma-martina-cardillo-inaf-768951443467",
+            "https://www.youtube.com/watch?v=5C21ZMSEPv0"
+          ]
+        },
+        {
+          "text": "I made an outreach video for the CTNA on the occasion of the <strong>\u201cGiornata Internazionale dello Spazio\u201d</strong>:",
+          "links": [
+            "https://www.ctna.it/ctna-giornatanazionaledellospazio/"
+          ]
+        },
+        {
+          "text": "I had a occasional service contract with the <strong>\u201cSpecola Vaticana\u201d</strong> as a guide",
+          "links": []
+        },
+        {
+          "text": "I\u2019m organizing the first Open Day (for University Students) of my Institute for March 2024",
+          "links": []
+        },
+        {
+          "text": "I\u2019m part of the INAF outreach project <strong>\u201cSpace Twinkle\u201d</strong> with PI Andrea Longobardo: its aim is to realize a mini-series on the importance of Space technology in our daily life",
+          "links": []
+        },
+        {
+          "text": "Presentation of the first comics editing INAF: <strong>\u201cFrammenti di Cielo\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cLucca Comics&Games 2023\u201d</strong> (November 4th)",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cPRISMA Day\u201d</strong> (November 17th)",
+          "links": []
+        },
+        {
+          "text": "Saminar and round table at the event at I.C Rita Levi Montalcini <strong>\u201cNate Sotto il Segno della Scienza\u201d</strong> with my colleagues Edwige Pezzulli and Pia Astone",
+          "links": [
+            "https://sites.google.com/icmontalciniroma.edu.it/planetario/eventi-e-concorsi?authuser=0"
+          ]
+        },
+        {
+          "text": "Seminar in Rome for the <strong>\u201cDaphne\u201d</strong> association (October 10th): <strong>\u201cI raggi gamma: facciamo luce sui resti di supernove e buchi neri con l'effetto Cherenkov\u201d</strong>",
+          "links": [
+            "https://daphne.verne.app/event/?ekey=5o08y"
+          ]
+        },
+        {
+          "text": "<strong>\u201cEuropean Researcher Night\u201d</strong> September 29th,30:",
+          "links": []
+        },
+        {
+          "text": "Organization of one of the INAF stands (<strong>\u201cAstronomy frontiers\u201d</strong>)",
+          "links": []
+        },
+        {
+          "text": "Seminar: <strong>\u201cLo spazio fa bene all\u2019umanit\u00e0. Sempre.\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "Seminar: <strong>\u201cGamma-Ray Busters: a caccia di raggi gamma\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "Stand dedicated to gamma-ray astronomy and techniques (AGILE and ASTRI Mini-Array projects)",
+          "links": []
+        },
+        {
+          "text": "Guide and Speaker at the <strong>\u201cAstronomitaly\u201d</strong> and <strong>\u201cRione Roma Tour\u201d</strong> event: <strong>\u201cL\u2019immensit\u00e0 del Cielo di Roma\u201d</strong> (August, 28th)",
+          "links": [
+            "https://www.comune.roma.it/web/it/evento.page?contentId=EVE1080925"
+          ]
+        },
+        {
+          "text": "Meeting with primary school Children in <strong>\u201cPunto Luce \u2013 Save The Children\u201d</strong> of Torre Maura (Roma) for the Scienza Insieme project (May 25th, 2023)",
+          "links": []
+        },
+        {
+          "text": "I was one of the speakers at the <strong>\u201cPint of Science\u201d</strong> Festival in Rome with the seminar <strong>\u201cGamma-ray Busters: a caccia di Raggi Gamma\u201d</strong> (May 23rd, 2023) supernove-e-buchi-neri",
+          "links": [
+            "https://pintofscience.it/event/gamma-ray-busters-alla-caccia-dei-raggi-gamma-provenienti-da-supernove-e-buchi-neri"
+          ]
+        },
+        {
+          "text": "I gave a seminar for the fifth high school students of ITC Lombardo Radice in Rome, named <strong>\u201cL'Astrofisica: verso l'infinito e ritorno. Dalle sorgenti pi\u00f9 energetiche alla nostra quotidianit\u00e0\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "I gave an INAF seminar about <strong>\u201cGruppo Storie INAF\u201d</strong> named <strong>\u201cINAF and its ONE THOUSAND AND ONE STORIES\u201d</strong>",
+          "links": [
+            "https://www.youtube.com/watch?app=desktop&v=N4gq__IlToA"
+          ]
+        },
+        {
+          "text": "Several activities within INAF-IAPS: project <strong>\u201cCircuito Cinema\u201d</strong>, seminars at school, content organization of the <strong>\u201cMacchine del Tempo\u201d</strong> INAF exhibition at Rome in 2023 November",
+          "links": []
+        },
+        {
+          "text": "Sono membro del SOC del meeting <strong>\"AVENGe\"</strong> presso l'Osservatorio Astronomico di Roma (INAF) dal 29 al 31 maggio 2023: https://indico.ict.inaf.it/event/2281/",
+          "links": []
+        },
+        {
+          "text": "I received one call for papers: <strong>\u201cUniverse\u201d</strong> for the Special Issue <strong>\u201cCosmic Rays and Dark Matter Detection\u201d</strong>",
+          "links": []
+        }
+      ],
+      "2022": [
+        {
+          "text": "Nel <strong>\"Gruppo Storie\"</strong> (sono membro dal 2020) di Edu-INAF ( https://edu.inaf.it/gruppo-storie/ ) sono coinvolta in diverse attivit? che continueranno in futuro: podcast <strong>\"Martina-Tremenda\"</strong> ( https://edu.inaf.it/approfondimenti/astrokids/martina-tremenda-podcast/ ). <strong>\"Briciole Spaziali\"</strong>: rubrica scientifica per bambini (<14 anni) ( https://edu.inaf.it/briciole-spaziali )",
+          "links": []
+        },
+        {
+          "text": "Sviluppo di un fumetto sul progetto PRISMA ( http://www.prisma.inaf.it/ )",
+          "links": []
+        },
+        {
+          "text": "Articoli e partecipazioni a festival ( https://edu.inaf.it/approfondimenti/scoperte/messaggero-delle-stelle-teatro/ )",
+          "links": []
+        },
+        {
+          "text": "Several activities within INAF-IAPS: project <strong>\u201cCircuito Cinema\u201d</strong>, seminars at school, content organization of the <strong>\u201cMacchine del Tempo\u201d</strong> INAF exhibition at Rome in 2023 October",
+          "links": []
+        },
+        {
+          "text": "I became co-responsible of Dr Anna Wolter (IASF Milano) for the Outreach in the ASTRI MA project",
+          "links": []
+        },
+        {
+          "text": "I was a Co-I in the proposed Techno Grant INAF <strong>\u201cINAF-SUP\u201d</strong>, dedicated to creation of a common platform for data analysis and their reproducibility (PI: Francesco Visconti)",
+          "links": []
+        },
+        {
+          "text": "Sono membro del LOC e del SOC del nuovo Very High Energy Meeting <strong>\"PASTO\"</strong> presso l'Osservatorio Astronomico di Roma (INAF) nel settembre 2022: https://indico.ict.inaf.it/event/1785/",
+          "links": []
+        },
+        {
+          "text": "I received two Guest Editor Proposals: o <strong>\u201cAerospace\u201d</strong> for special issue <strong>\u201cAerospace Instrumentation\u201d</strong> o <strong>\u201cGalaxies\u201d</strong> for the Special issue <strong>\u201cObservation Data Analytics under data-driven astronomy\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "I received two call for papers: o <strong>\u201cApplied Science\u201d</strong> for the Special Issue <strong>\u201cHigh_Energy_Multi- Messenger_Astrophysics_Latest_Research_and_Review\u201d</strong> o <strong>\u201cPhysics and Astronomy International Journal\u201d</strong>",
+          "links": []
+        }
+      ],
+      "2021": [
+        {
+          "text": "<strong>\u201cFestival della Scienza\u201d</strong> (Genova): I talk about the ASTRI/CTA projects and the high-energy astrophysics",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cResearcher Night\u201d</strong> September 24th: three different activities:",
+          "links": []
+        },
+        {
+          "text": "Seminar: <strong>\u201cLo spazio fa bene all\u2019umanit\u00e0. Sempre.\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "Laboratory: Planets in a Room",
+          "links": []
+        },
+        {
+          "text": "Show: <strong>\u201cDove nessuno \u00e8 mai giunto prima\u2026ma gli scienziati SI!\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cstARTrekking\u201d</strong> (Rome), scientific outreach walking in Rome; event in the NET project, organized by INAF (several events during the year)",
+          "links": []
+        },
+        {
+          "text": "Produzione di materiale di divulgazione e didattico pubblicato online su EDU-INAF (https://edu.inaf.it/autore_didattico/martina-cardillo/ )",
+          "links": []
+        },
+        {
+          "text": "I was a shifter at the LST telescope at the Observatory of Roque de Los Muchachos (La Palma, Canarian Islands) between the end of August and half of September",
+          "links": []
+        },
+        {
+          "text": "I received a proposal as Guest Editor for the open-access journal <strong>\u201cApplied Sciences\u201d</strong> for the Special Issue <strong>\u201cAcceleration of Cosmic-Ray\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "I was a member of the TAC (Time Allocate Committee) of the MAGIC collaboration",
+          "links": []
+        }
+      ],
+      "2020": [
+        {
+          "text": "I became Co-coordinator of Dr Anna Wolter in the Italian ASTRI Mini-Array outreach team",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cOcchi sulla Luna\u201d</strong> (Roma 3 University): IAPS-INAF project <strong>\u201cPlanets in a Room\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "Production of osutreach and teaching material published online on EDU-INAF",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cTalenti per la Scienza\u201d</strong> (Rome), one of the launch events for the <strong>\u201cNotte Europea dei Ricercatori\u201d</strong> in the NET project.",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cstARTrekking\u201d</strong> (Rome), scientific outreach walking in Rome; event for the <strong>\u201cNotte Europea dei Ricercatori\u201d</strong> in the NET project, organized by INAF",
+          "links": []
+        },
+        {
+          "text": "Two digital seminars during the Science weak at the end of November: \u2022 <strong>\"Lo spazio fa bene all'umanit\u00e0. Sempre.\"</strong> \u2022 <strong>\"L'astrofisica delle alte energie: verso l'infinito e oltre\"</strong>",
+          "links": [
+            "https://www.scienzainsieme.it/lo-spazio-fa-bene-allumanita-sempre/?fbclid=IwAR2ZHBwpl2Lmwg4xXlruB4lG-2CuGhVkJzWD30wQuo2fvJAAVUVSKaReshA",
+            "https://www.scienzainsieme.it/l-astrofisica-delle-alte-energie-verso-linfinito-e-ritorno/?fbclid=IwAR2w07LmWBJ5zzD31aEUPIWY2-2SpoymsDKVkJXPR03zJRU8g_w6RxbkGqw"
+          ]
+        },
+        {
+          "text": "I opened a Youtube Channel dedicated to astrophysics and space outreach. My video are used in the Edu-INAF page:",
+          "links": [
+            "https://www.youtube.com/pi\u00f9spaziopertutti",
+            "https://edu.inaf.it/pillole-martina-cardillo/"
+          ]
+        },
+        {
+          "text": "Collaboration with several outreach social pages:",
+          "links": [
+            "https://www.astrospace.it/",
+            "https://www.missionescienza.it/"
+          ]
+        },
+        {
+          "text": "A column, <strong>\u201cBolle Spaziali\u201d</strong>, in the web magazine <strong>\u201cVerbum Press\u201d</strong>: 17oTtlILVNH0GlJomOmXr8UiQJeJ_akZgEw6FIGHfM",
+          "links": [
+            "https://www.verbumlandiart.com/n-2/?fbclid=IwAR0Q1BDm40Q_JhVO-17oTtlILVNH0GlJomOmXr8UiQJeJ_akZgEw6FIGHfM"
+          ]
+        },
+        {
+          "text": "I was a scientific guest in the program <strong>\u201c \u201cSupernova Reloaded: Divulgazione e dintorni.\u201d</strong>\u201d of the radio station <strong>\u201cBorder Radio\u201d</strong>, speaking about Astrophysics and outreach",
+          "links": []
+        },
+        {
+          "text": "I began a collaboration with the outreach company <strong>\u201cAstronomitaly\u201d</strong> with post, live videos and, when we could, as guide for the sky observation.",
+          "links": []
+        },
+        {
+          "text": "I was designed for the <strong>\u201cevaluation research portfolio\u201d</strong> of a researcher",
+          "links": []
+        },
+        {
+          "text": "I was the referee of several papers",
+          "links": []
+        },
+        {
+          "text": "I received three Guest Editor Proposals: \u2022 <strong>\u201cApplied Science\u201d</strong> for special issue <strong>\u201cAstrophysics Geophysics Research and Applications\u201d</strong> \u2022 <strong>\u201cUniverse\u201d</strong> for the Special issue <strong>\u201cDark Energy Accelerating Universe\u201d</strong> \u2022 <strong>\u201cUniverse\u201d</strong> for the Special issue <strong>\u201cGamma-ray Astronomy\u201d</strong>",
+          "links": []
+        }
+      ],
+      "2019": [
+        {
+          "text": "<strong>\u201cOcchi su Marte\u201d</strong> (Roma 3 University, Roma): IAPS-INAF project <strong>\u201cPlanets in a Room\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cXX astronomy week\u201d</strong>: teaching seminar at IAPS-INAF on the high energy astrophysics",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cOcchi sulla Luna\u201d</strong> (Roma 3 University): IAPS-INAF project <strong>\u201cPlanets in a Room\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cResearcher Night\u201d</strong> (INAF-IAPS, Roma): telling about the satellites trajectory, and the gravitational field importance with a <strong>\u201cHomemade Space-Time\u201d</strong>, about the Solar System with the project <strong>\u201cPlanet in a Room\u201d</strong> of Speak Science and about the High Energy Astrophysics with a seminar.",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cMaker Faire\u201d</strong> (Fiera di Roma) as IAPS-INAF presenting the project <strong>\u201cPlanets in a Room\u201d</strong> of Speak Science.",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cIsola della Sostenibilit\u00e0\u201d</strong> (ex Mattatoio, Roma) as IAPS-INAF: seminar <strong>\u201cLo spazio fa bene all\u2019umanit\u00e0. Sempre.\u201d</strong>",
+          "links": []
+        },
+        {
+          "text": "<strong>\u201cTransito di Mercurio\u201d</strong> (Tor Vergata University, Roma): seminar about solar system",
+          "links": []
+        },
+        {
+          "text": "Beginning of my column, <strong>\u201cA spazio con Marty\u201d</strong>, in the radio program <strong>\u201cAvanti Tutta\u201d</strong> of the Radio Station <strong>\u201cRadio Kaos Italy\u201d</strong>, speaking about Astrophysics:",
+          "links": [
+            "https://www.radiokaositaly.com/trasmissioni/dirette/avanti-tutta/"
+          ]
+        },
+        {
+          "text": "I opened a Facebook page for Scientific Outreach with poems written in Roman",
+          "links": [
+            "https://www.facebook.com/RomaCaputAstri"
+          ]
+        },
+        {
+          "text": "I was a scientific guest in the program <strong>\u201cAvanti Tutta\u201d</strong> of the radio station <strong>\u201cRadio Kaso Italy\u201d</strong>, speaking about Astrophysics",
+          "links": []
+        },
+        {
+          "text": "I spoke several times via telephone connection in the radio Station NSL program <strong>\u201cGoodmorning Vietnam\u201d</strong>, as <strong>\u201cLa Scienza Coatta\u201d</strong> member, speaking about Science",
+          "links": []
+        },
+        {
+          "text": "Suitability at the public competition for a permanent position dedicated to young researchers at INAF",
+          "links": []
+        },
+        {
+          "text": "I became an associated Scientist of the MAGIC collaboration",
+          "links": []
+        },
+        {
+          "text": "I was the referee of several papers",
+          "links": []
+        }
+      ],
+      "2018": [
+        {
+          "text": "<strong>\u201cResearcher Night\u201d</strong> at the INAF-IAPS of Rome telling about satellites trajectory and gravitational field importance",
+          "links": []
+        },
+        {
+          "text": "I became an active member of writing and organizing group of <strong>\u201cLa Scienza Coatta\u201d</strong>, an association that tells science ironically in roman dialect with intelligence, though the sociale media but also in live events",
+          "links": []
+        },
+        {
+          "text": "Suitability with 75.5/90 at the public competition <strong>\"Toward the SKA-CTA era: discovery, localization and physics of transient sources\"</strong> at INAF-IAPS",
+          "links": []
+        },
+        {
+          "text": "Collaboration with Dr. Andy Strong for a review work <strong>\"Cosmic Rays around Supernova Remnants\"</strong>.",
+          "links": []
+        }
+      ],
+      "2017": [
+        {
+          "text": "I attended to the competition <strong>\u201cSTEM: femminile 26lural\u201d</strong> with some girls of the Liceo Donatelli (Terni,Italy) and the teacher MariaGiovanni Fioretti.",
+          "links": []
+        },
+        {
+          "text": "I was called by my high school professor Daniele Bulgarelli in order to talk about my work and my university experience in my old school Liceo Classico Statale Benedetto da Norcia",
+          "links": []
+        }
+      ],
+      "2016": [
+        {
+          "text": "<strong>\u201cResearcher Night\u201d</strong> at the INAF-IAPS of Rome with an exhibition on Jupiter and the solar system",
+          "links": []
+        },
+        {
+          "text": "Member of the Astronomy Olympics Italian committee.",
+          "links": []
+        }
+      ],
+      "2014-2017": [
+        {
+          "text": "I was a guide for students and general public at the Osservatorio Astrofisico di Arcetri, within the sphere of Scientific education and communication activities",
+          "links": []
+        }
+      ],
+      "2013": [
+        {
+          "text": "<strong>\u201cResearcher Night\u201d</strong> at the INAF-IAPS of Rome with a conference about AGILE satellite and high-energy astrophysics.",
+          "links": []
+        },
+        {
+          "text": "Collaboration with the team of Pasquale Blasi at the Arcetri Observatory (Florence)",
+          "links": []
+        }
+      ],
+      "2012": [
+        {
+          "text": "<strong>\"Researchers' Night\"</strong> at INAF-IAPS in Rome with a conference on high-energy astrophysics. Other references [2025] First Aid and Automated External Defibrillator (AED) certification - national and international certification.",
+          "links": []
+        },
+        {
+          "text": "I was spokesperson for the Faculty of Science at the University of Rome Tor Vergata in a meeting about the idea of a European PhD, with Minister Profumo and Luigi Berlinguer at the European Parliament in Brussels.",
+          "links": []
+        }
+      ],
+      "2011": [],
+      "2009": []
+    }
+  }
+}

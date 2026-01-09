@@ -1,0 +1,240 @@
+{
+  "lang": "en",
+  "siteTitle": "Martina Cardillo | High-Energy Astrophysics",
+  "nav": {
+    "home": "Home",
+    "publications": "Scientific publications",
+    "outreach": "Teaching & Outreach",
+    "news": "News & updates",
+    "cv": "CV",
+    "contact": "Contacts",
+    "language": "Language",
+    "supervision": "Thesis & PhD requests",
+    "homeMenu": {
+      "overview": "Main page",
+      "research": "Scientific Activities and Collaborations",
+      "supervision": "Thesis & PhD requests",
+      "education": "Education and Experience",
+      "collaborations": "Collaborations",
+      "social": "Social Channels",
+      "quickLinks": "Quick links"
+    }
+  },
+  "hero": {
+    "title": "Martina Cardillo",
+    "subtitle": "Researcher at INAF-IAPS | High-Energy Astrophysics",
+    "intro": "Roman astrophysicist, I am a researcher at the <a href=\"https://www.iaps.inaf.it/it\" target=\"_blank\" rel=\"noopener\"><strong>Institute of Astrophysics and Space Planetology (IAPS)</strong></a> in Rome, one of the branches of the <a href=\"http://www.inaf.it/it\" target=\"_blank\" rel=\"noopener\"><strong>National Institute for Astrophysics (INAF)</strong></a>.<br>I focus on the acceleration of <strong>cosmic rays</strong> from galactic sources through <strong>gamma-ray astrophysics</strong>, which studies the most energetic events in the Universe. My work ranges from the <strong>instrument-signal interface</strong> in space to the <strong>analysis and interpretation of data</strong>. I am involved in several national and international collaborations, in particular I am part of the <a href=\"https://agile.ssdc.asi.it/overview.html\" target=\"_blank\" rel=\"noopener\"><strong>AGILE</strong></a> team (Italian gamma-ray satellite) and the <a href=\"https://www.astri.inaf.it/\" target=\"_blank\" rel=\"noopener\"><strong>ASTRI</strong></a> Mini-Array project (future network of gamma-ray telescopes).<br>I love to <a href=\"pages/didattica-divulgazione.html\"><strong>tell science stories</strong></a> and the Universe in particular, and I do it whenever I can, both through institutional channels (e.g. <a href=\"https://storie.inaf.it/\" target=\"_blank\" rel=\"noopener\"><strong>Gruppo Storie INAF</strong></a>) and personal channels (YouTube: <a href=\"https://www.youtube.com/piuspaziopertutti\" target=\"_blank\" rel=\"noopener\"><strong>Pi\u00f9 Spazio Per Tutti</strong></a>, Facebook: <a href=\"https://www.facebook.com/RomaCaputAstri\" target=\"_blank\" rel=\"noopener\"><strong>Roma Caput Astri</strong></a>).<br>I love art in all its forms, Rome, and I am hyperactive, the kind that needs to be calmed down sometimes.",
+    "ctaPrimary": "Download CV",
+    "ctaSecondary": "Scientific publications",
+    "ctaTertiary": "Teaching & Outreach",
+    "ctaQuaternary": "News & updates",
+    "quick": {
+      "researchTitle": "Research",
+      "researchDesc": "Key areas and expertise",
+      "supervisionTitle": "Thesis & PhD requests",
+      "supervisionDesc": "Availability and topics",
+      "collabTitle": "Collaborations",
+      "collabDesc": "Active projects"
+    }
+  },
+  "sections": {
+    "educationExperience": {
+      "title": "Education and Experience",
+      "items": ["2007 \u2013 BSc in Physics (University of Rome Tor Vergata)\nThesis: \"The gravitational lensing effect on anisotropies of the cosmic microwave background\"\nSupervisor: Prof. Amedeo Balbi", "2010 \u2013 MSc in Sciences of the Universe (University of Rome Tor Vergata)\nThesis: \u201cThe Supernova Remnant W28: a study of particle acceleration\u201d\nSupervisor: Prof. Marco Tavani", "2013 \u2013 PhD in Astronomy (University of Rome Tor Vergata)\nThesis: \u201cThe origin of cosmic rays in supernova remnants: new challenges after a breakthrough\u201d\nSupervisor: Prof. Marco Tavani\nThe thesis received the ARAP Prize (Associazione Romana per le Astro-Particelle)", "2014\u20132017 \u2013 Post-doc at INAF \u2013 Arcetri Astrophysical Observatory (Florence)\nI worked in Pasquale Blasi's high-energy group on theoretical models of cosmic-ray acceleration in supernova remnants.", "2017\u20132021 \u2013 Post-doc at INAF\u2013IAPS - I worked mainly on gamma-ray data analysis from the AGILE satellite and modeling, and I started my activity within the ASTRI collaboration.", "2021\u2013present \u2013 Tenured researcher at INAF\u2013IAPS - I consolidated my role within the ASTRI collaboration, started supervising PhD student Alan Sunny, and began independent work on multi-frequency and multi-messenger studies of Galactic PeVatrons, also with the support of external collaborations (e.g., Dr Jagdish Joshi at <a href=\"https://www.aries.res.in/\" target=\"_blank\" rel=\"noopener\">ARIES</a> and Dr Gabriela Castelletti at <a href=\"https://cyt.rec.uba.ar/investigacion/institutos-3-2/instituto-uba-conicet/\" target=\"_blank\" rel=\"noopener\">CONICET-Universidad De Buenos Aires</a>)"]
+    },
+    "research": {
+      "title": "Scientific Activities and Collaborations",
+      "body": "I have <a href=\"pages/pubblicazioni.html\"><strong>long experience</strong></a> in modeling and data analysis of cosmic-ray acceleration processes and gamma-ray emission from galactic sources, especially supernova remnants.\n\n- I am lead co-author of the paper Giuliani, Cardillo et al. (2011), which provided the first evidence of cosmic rays in a supernova-remnant shock thanks to the <a href=\"https://agile.ssdc.asi.it/overview.html\" target=\"_blank\" rel=\"noopener\"><strong>AGILE</strong></a> satellite.\n\n- As a member of the AGILE team, I received the Bruno Rossi Prize for the discovery of gamma flares from the Crab Nebula (2012).\n\n- I work on acquisition and data analysis from satellites and Cherenkov detectors.\n\n- Within the <a href=\"https://www.astri.inaf.it/\" target=\"_blank\" rel=\"noopener\"><strong>ASTRI</strong></a> Mini-Array collaboration I am co-coordinator of several working groups: Data Processing System working package, Scientific Analysis Working Group, and Science Pevatron Working Group.\n\nI am involved in several projects and collaborations, including AGILE, ASTRI Mini-Array, <a href=\"https://www.ctao.org/\" target=\"_blank\" rel=\"noopener\"><strong>CTAO</strong></a>, <a href=\"https://www.ctao.org/it/emission-to-discovery/telescopes/lst/\" target=\"_blank\" rel=\"noopener\"><strong>LST-1</strong></a> and I am also an associate member of <a href=\"https://magic.mppmu.mpg.de/\" target=\"_blank\" rel=\"noopener\"><strong>MAGIC</strong></a>.\n\nI strongly believe in the importance of scientific <a href=\"pages/didattica-divulgazione.html\"><strong>outreach</strong></a>, and for this reason my commitment is always active and passionate. You can find all the activities I carry out on the <a href=\"pages/didattica-divulgazione.html\"><strong>dedicated page</strong></a>.",
+      "focus": [
+        "Gamma-ray data analysis and modeling",
+        "Cosmic-ray acceleration and propagation",
+        "Galactic ultra-high-energy sources",
+        "Cherenkov telescopes and IRF work",
+        "Multi-wavelength studies"
+      ],
+      "focusTop": [
+        "Gamma-ray data analysis and modeling",
+        "Galactic ultra-high-energy sources",
+        "Cosmic-ray acceleration and propagation"
+      ],
+      "focusOther": [
+        "Cherenkov telescopes and IRF work",
+        "Multi-wavelength studies"
+      ],
+      "legendTop": "Main focus",
+      "legendOther": "Active areas"
+    },
+    "supervision": {
+      "title": "Thesis & PhD requests",
+      "bodyIntro": "I am available to supervise BSc/MSc theses and PhD projects on gamma-ray data analysis and modeling of cosmic-ray acceleration in galactic sources, and related topics. If you want to propose a project or see if we share a topic, <a href=\"mailto:martina.cardillo@inaf.it\">write me</a>: I reply (almost) at the speed of light.",
+      "bodyDetail": "Since 2023 I have supervised Alan Sunny, a PhD student of the 39th cycle in <a href=\"https://phd.uniroma1.it/web/ASTRONOMY-ASTROPHYSICS-AND-SPACE-SCIENCE_nD3486_EN.aspx\" target=\"_blank\" rel=\"noopener\">Astronomy, Astrophysics and Space Science</a> at the Universities of Tor Vergata and La Sapienza in Rome."
+    },
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "title": "PhD in Astrophysics",
+          "period": "2010-2013",
+          "place": "University of Rome Tor Vergata"
+        },
+        {
+          "title": "MSc in Astrophysics (110/110 cum laude)",
+          "period": "2007-2010",
+          "place": "University of Rome Tor Vergata"
+        },
+        {
+          "title": "BSc in Physics (105/110)",
+          "period": "2004-2007",
+          "place": "University of Rome Tor Vergata"
+        }
+      ]
+    },
+    "career": {
+      "title": "Career",
+      "items": [
+        {
+          "title": "Researcher, INAF-IAPS",
+          "period": "2021-present",
+          "place": "Rome"
+        },
+        {
+          "title": "Postdoc, INAF-IAPS",
+          "period": "2017-2021",
+          "place": "Rome"
+        },
+        {
+          "title": "Postdoc, INAF - Arcetri Astrophysical Observatory",
+          "period": "2014-2017",
+          "place": "Florence"
+        }
+      ]
+    },
+    "collaborations": {
+      "title": "Active collaborations"
+    },
+    "social": {
+      "title": "Social Channels"
+    },
+    "quickLinks": {
+      "title": "Quick links",
+      "publications": "Scientific publications",
+      "outreach": "Teaching & Outreach",
+      "news": "News & updates",
+      "publicationsDesc": "Year-by-year list with DOI and links.",
+      "outreachDesc": "Outreach and teaching activities with online resources.",
+      "newsDesc": "New papers, projects, collaborations, and recent activities."
+    }
+  },
+  "contact": {
+    "title": "Contacts",
+    "emailLabel": "Email",
+    "instituteLabel": "Institute",
+    "addressLabel": "Address"
+  },
+  "publicationsPage": {
+    "title": "Scientific publications",
+    "intro": "Peer-reviewed publications by year, with DOI and links.",
+    "cardilloTitle": "Featured publications",
+    "byYearTitle": "Other publications by year"
+  },
+  "outreachPage": {
+    "title": "Teaching & Outreach",
+    "intro": "Outreach activities by year with links to online materials.",
+    "ongoingTitle": "Ongoing activities",
+    "teachingTitle": "Teaching and training",
+    "byYearTitle": "Activities by year"
+  },
+  "newsPage": {
+    "title": "News & updates",
+    "intro": "New papers, projects, collaborations, and outreach highlights."
+  },
+  "teaching": {
+    "items": [
+      {
+        "title": "High-Energy Astrophysics (lecturer)",
+        "period": "2022-2024",
+        "place": "University of Rome Tor Vergata"
+      },
+      {
+        "title": "Tutoring: Mechanics and Thermodynamics",
+        "period": "2012",
+        "place": "University of Rome Tor Vergata"
+      },
+      {
+        "title": "Astromundus tutoring: Extragalactic Astrophysics",
+        "period": "2011",
+        "place": "University of Rome Tor Vergata"
+      },
+      {
+        "title": "Math recovery courses (secondary school)",
+        "period": "2011",
+        "place": "Liceo Scientifico Amaldi"
+      },
+      {
+        "title": "Tutoring: Programming and computing",
+        "period": "2010",
+        "place": "University of Rome Tor Vergata"
+      }
+    ]
+  },
+  "news": {
+    "items": [
+      {
+        "year": "2025",
+        "category": "Invited talk",
+        "title": "KPS Fall Meeting (Gwangju, South Korea)",
+        "body": "Talk on \u201cPeVatron Fiction (Everything Everywhere All at PeV)\u201d.",
+        "link": "https://www.kps.or.kr/conference/event/content/content.php?_mid=1401,1406#"
+      },
+      {
+        "year": "2025",
+        "category": "Invited talk",
+        "title": "Indo-Japan Workshop on Extreme Plasma Phenomena (ARIES Nainital)",
+        "body": "Talk on \u201cPeVatron Fiction (Everything Everywhere All at PeV)\u201d.",
+        "link": "https://www.aries.res.in/sites/default/files/Indo_Japan_workshop.pdf"
+      },
+      {
+        "year": "2025",
+        "category": "Invited talk",
+        "title": "KMI2025 \u2013 6th KMI International Symposium (Nagoya, Japan)",
+        "body": "Talk on \u201cGamma Ray Busters: the search of the lost PeVatrons\u201d.",
+        "link": "https://indico.kmi.nagoya-u.ac.jp/event/10/overview"
+      },
+      {
+        "year": "2025",
+        "category": "Outreach",
+        "title": "ADTRAN event at Villa Merini (October 9)",
+        "body": "Invited speaker for the outreach event."
+      },
+      {
+        "year": "2025",
+        "category": "Outreach",
+        "title": "Un viaggio tra memoria e innovazione (October 2)",
+        "body": "Invited speaker at the event organized by FNP for Grandparents' Day."
+      },
+      {
+        "year": "2025",
+        "category": "Outreach",
+        "title": "Festival d'Arte, Scienza e Inclusione Sociale (September 20)",
+        "body": "Invited speaker for the conversation hosted by the IncontroLuce association in Florence."
+      },
+      {
+        "year": "2024",
+        "category": "Outreach",
+        "title": "INAF-IAPS Open Day for university students",
+        "body": "Event organized to present active research and opportunities at IAPS.",
+        "link": "https://www.iaps.inaf.it/it/eventi/incontri-con-il-pubblico/open-day-iaps-2024"
+      }
+    ]
+  },
+  "footer": {
+    "text": "Personal website of Martina Cardillo - INAF-IAPS"
+  },
+  "labels": {
+    "download": "Download",
+    "open": "Open",
+    "doi": "DOI",
+    "link": "Link",
+    "skip": "Skip to content"
+  }
+}

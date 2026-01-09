@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Pagina personale di Martina Cardillo, ricercatrice INAF-IAPS in astrofisica delle alte energie."
+    />
+    <title>Martina Cardillo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/main.css?v=9" />
+    <script src="assets/js/app.js?v=13" defer></script>
+  </head>
+  <body data-page="home">
+    <a class="skip-link" href="#main" data-i18n="labels.skip">Salta al contenuto</a>
+    <header class="site-header">
+      <nav class="nav">
+        <ul class="nav-links">
+          <li class="nav-dropdown">
+            <button class="nav-button" type="button" aria-expanded="false" data-i18n="nav.home" data-home-link="true">
+              Home
+            </button>
+            <div class="dropdown-menu">
+              <a href="#research" data-i18n="nav.homeMenu.research">Attivit&agrave; di ricerca</a>
+              <a href="#education-experience" data-i18n="nav.homeMenu.education">Formazione</a>
+              <a href="#social" data-i18n="nav.homeMenu.social">Canali</a>
+            </div>
+          </li>
+          <li>
+            <a href="pages/pubblicazioni.html" data-i18n="nav.publications"
+              >Pubblicazioni scientifiche</a
+            >
+          </li>
+          <li>
+            <a href="pages/didattica-divulgazione.html" data-i18n="nav.outreach"
+              >Didattica e Divulgazione</a
+            >
+          </li>
+          <li><a href="pages/news.html" data-i18n="nav.news">News e aggiornamenti</a></li>
+          <li><a href="#supervision" data-i18n="nav.supervision">Tesi e Dottorato</a></li>
+        </ul>
+        <div class="lang-toggle" role="group" aria-label="Language">
+          <button type="button" data-lang="it" aria-pressed="true">IT</button>
+          <button type="button" data-lang="en" aria-pressed="false">EN</button>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero">
+        <div class="hero-card reveal" style="--delay: 0.12s">
+          <img id="profile-image" src="assets/img/profile.jpg" alt="Foto profilo" />
+          <div class="card" style="margin-top: 1.25rem">
+            <h3 data-i18n="contact.title">Contatti</h3>
+            <p>
+              <strong data-i18n="contact.emailLabel">Email</strong>
+              <br />
+              <a class="email-link" href="mailto:martina.cardillo@inaf.it"
+                >martina.cardillo@inaf.it</a
+              >
+            </p>
+            <p>
+              <strong data-i18n="contact.instituteLabel">Istituto</strong>
+              <br />
+              <a id="inaf-link" target="_blank" rel="noopener">INAF</a> /
+              <a id="iaps-link" target="_blank" rel="noopener">IAPS</a>
+              <br />
+              <span id="address-text">Via del Fosso del Cavaliere 100, 00133 Roma</span>
+            </p>
+            <p>
+              <strong>ORCID</strong>
+              <br />
+              <a id="orcid-link" target="_blank" rel="noopener">0000-0001-8877-3996</a>
+            </p>
+            <p>
+              <strong>LinkedIn</strong>
+              <br />
+              <a id="linkedin-link" target="_blank" rel="noopener">linkedin.com/in/martina-cardillo</a>
+            </p>
+          </div>
+        </div>
+        <div class="reveal hero-content" style="--delay: 0.05s">
+          <div class="hero-heading">
+            <h1 data-i18n="hero.title">Martina Cardillo</h1>
+            <a
+              class="hero-logo-link"
+              href="https://www.iaps.inaf.it/it"
+              target="_blank"
+              rel="noopener"
+            >
+              <img class="hero-logo" src="assets/img/INAF-IAPS_logo.png" alt="INAF-IAPS logo" />
+            </a>
+          </div>
+          <p class="subtitle" data-i18n="hero.subtitle">
+            Ricercatrice INAF-IAPS | Astrofisica delle alte energie
+          </p>
+          <div class="hero-description">
+            <p data-i18n="hero.intro">
+              Ciao! Sono Martina: faccio parlare i raggi gamma quando nessuno li invita alla festa.
+            </p>
+          </div>
+          <div class="cta-group">
+            <a
+              class="button"
+              data-link="cv"
+              target="_blank"
+              rel="noopener"
+              data-i18n="hero.ctaPrimary"
+              >Scarica il CV</a
+            >
+          </div>
+        </div>
+      </section>
+
+      <section id="research" class="card reveal" style="--delay: 0.2s">
+  <div class="research-layout">
+    <div class="research-text">
+      <h2 data-i18n="sections.research.title">Attivit?? di ricerca</h2>
+      <div class="research-body" data-i18n="sections.research.body">
+        Mi occupo di astrofisica delle alte energie, con focus sull'astrofisica gamma.
+      </div>
+    </div>
+          <div class="research-media">
+            <figure>
+              <img
+                src="assets/img/ASTRI_Horn_con_me_stessa.jpeg"
+                alt="Martina Cardillo con ASTRI Horn"
+              />
+              <figcaption>
+                Di fronte al prototipo ASTRI-Horn d&#39;Arturo all&#39;osservatorio Serra La Nave
+                sull&#39;Etna
+              </figcaption>
+            </figure>
+            <figure>
+              <img
+                src="assets/img/Martina_AGILE.jpg"
+                alt="Martina Cardillo con modello cartaceo del satellite AGILE"
+              />
+              <figcaption>Me stessa insieme al modello cartaceo del satellite AGILE</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+      <section id="education-experience" class="card reveal" style="--delay: 0.3s">
+        <div class="education-experience-layout">
+          <div class="education-experience-media">
+            <h2 data-i18n="sections.educationExperience.title">Formazione ed esperienza</h2>
+            <figure>
+              <img src="assets/img/Martina_ufficio.jpg" alt="Martina Cardillo in ufficio" />
+              <figcaption>nel mio ufficio allo IAPS</figcaption>
+            </figure>
+          </div>
+          <div class="education-experience-text">
+            <ul id="education-experience-list" class="education-experience"></ul>
+          </div>
+        </div>
+      </section>
+
+
+      <section id="supervision" class="card reveal" style="--delay: 0.25s">
+        <div class="supervision-content">
+          <h2 data-i18n="sections.supervision.title">Richieste di tesi e dottorato</h2>
+          <div class="supervision-row">
+            <div class="supervision-text-block">
+              <p class="supervision-detail" data-i18n="sections.supervision.bodyDetail">
+                Dal 2023 sono supervisor dello studente Alan Sunny.
+              </p>
+              <p class="supervision-intro" data-i18n="sections.supervision.bodyIntro">
+                Sono disponibile a supervisionare tesi triennali/magistrali e dottorati su analisi dati gamma.
+              </p>
+            </div>
+            <a
+              class="supervision-media"
+              href="https://www.linkedin.com/in/alan-sunny-b1a91a243/?originalSubdomain=in"
+              target="_blank"
+              rel="noopener"
+            >
+              <figure>
+                <img src="assets/img/Alan_LST.jpeg" alt="Alan Sunny" />
+                <figcaption>Alan Sunny-Studente di dottorato</figcaption>
+              </figure>
+            </a>
+          </div>
+        </div>
+      </section>
+      <section id="social" class="card reveal" style="--delay: 0.45s">
+        <h2 data-i18n="sections.social.title">Canali Social</h2>
+        <ul id="social-list" class="social-previews"></ul>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p data-i18n="footer.text">Sito personale di Martina Cardillo · INAF-IAPS</p>
+    </footer>
+  </body>
+</html>
