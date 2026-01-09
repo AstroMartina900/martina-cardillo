@@ -407,7 +407,8 @@ section[id] {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  transform: translateY(-10%);
+  transform: translateY(0);
+  margin-top: 0.4rem;
 }
 
 .education-experience-media img {
@@ -944,7 +945,7 @@ section[id] {
     align-items: flex-start;
     padding: 0.75rem 1rem;
     max-width: 100%;
-    overflow: hidden;
+    overflow: visible;
   }
 
   .nav-links {
@@ -952,8 +953,17 @@ section[id] {
     white-space: normal;
     row-gap: 0.5rem;
     column-gap: 0.6rem;
-    overflow: hidden;
+    overflow: visible;
     max-width: 100%;
+  }
+
+  .dropdown-menu {
+    position: static;
+    transform: none;
+    min-width: 0;
+    width: 100%;
+    margin-top: 0.35rem;
+    box-shadow: none;
   }
 
   .lang-toggle {
