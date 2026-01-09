@@ -141,7 +141,7 @@ const renderEducationExperience = (container, items) => {
   if (!container || !items) return;
   // Allow links in the education experience items.
   container.innerHTML = items
-    .map((item) => `<li>${item.replace(/\n/g, "<br>")}</li>`)
+    .map((item) => `<li>${item.replace(/\\n|\n/g, "<br>")}</li>`)
     .join("");
 };
 
