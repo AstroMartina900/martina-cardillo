@@ -15,17 +15,17 @@
     {
       "label": "Pi\u00f9 Spazio Per Tutti",
       "url": "https://www.youtube.com/piuspaziopertutti",
-      "preview_image": "assets/img/youtube-thumb.png"
+      "preview_image": "assets/img/youtube-thumb.jpg"
     },
     {
       "label": "Martina Roma Caput Astri",
       "url": "https://www.instagram.com/martinaromacaputastri/reels/?hl=en",
-      "preview_image": "assets/img/instagram-thumb.png"
+      "preview_image": "assets/img/instagram-thumb.jpg"
     },
     {
       "label": "Roma Caput Astri",
       "url": "https://www.facebook.com/RomaCaputAstri/?locale=it_IT",
-      "preview_image": "assets/img/facebook-thumb.png"
+      "preview_image": "assets/img/facebook-thumb.jpg"
     }
   ],
   "collaborations": [
@@ -554,7 +554,7 @@
   "outreach": {
     "ongoing": [
       {
-        "text": "Several activities within INAF-IAPS:<ul class=\"outreach-sublist\"><li>project <strong>\"Circuito Cinema\"</strong></li><li>project <strong>\"Spazio Aperto\"</strong>, a science outreach program in Rebibbia prison</li><li>seminars in schools</li><li>content organization of the INAF exhibition <strong>\"Macchine del Tempo\"</strong> in Rome (November)</li><li>In the <a href=\"https://storie.inaf.it/\" target=\"_blank\" rel=\"noopener\">Gruppo Storie</a> (member since 2020) of INAF I am involved in several activities that will continue in the future: podcast <a href=\"https://edu.inaf.it/approfondimenti/astrokids/martina-tremenda-podcast/\" target=\"_blank\" rel=\"noopener\">Martina Tremenda</a> and a science column for children <a href=\"https://edu.inaf.it/briciole-spaziali\" target=\"_blank\" rel=\"noopener\">Briciole Spaziali</a> (&lt;14 years)</li><li>development of a second comics project (Frammenti di cielo^2)</li><li>development of the comic <a href=\"https://edu.inaf.it/wp-content/uploads/2023/10/Frammenti-di-cielo-ONLINE.pdf\" target=\"_blank\" rel=\"noopener\">Frammenti di Cielo</a></li><li><a href=\"https://edu.inaf.it/approfondimenti/scoperte/messaggero-delle-stelle-teatro/\" target=\"_blank\" rel=\"noopener\">articles</a> and festival participation</li><li>I am a member of <a href=\"https://sites.google.com/inaf.it/universall/home\" target=\"_blank\" rel=\"noopener\">Univers@ll</a>, the INAF team dedicated to inclusion and diversity</li><li>I am co-responsible with Dr. Anna Wolter (IASF Milan) for outreach in the ASTRI MA project</li></ul>",
+        "text": "Several activities within INAF-IAPS:<ul class=\"outreach-sublist\"><li>project <strong>\"Circuito Cinema\"</strong></li><li>project <strong>\"Spazio Aperto\"</strong>, a science outreach program in Rebibbia prison</li><li>seminars in schools</li><li>content organization of the INAF exhibition <strong>\"Macchine del Tempo\"</strong> in Rome (November)</li><li>In the <a href=\"https://storie.inaf.it/\" target=\"_blank\" rel=\"noopener\">Gruppo Storie</a> (member since 2020) of INAF I am involved in several activities that will continue in the future:<ul class=\"outreach-sublist\"><li>podcast <a href=\"https://edu.inaf.it/approfondimenti/astrokids/martina-tremenda-podcast/\" target=\"_blank\" rel=\"noopener\">Martina Tremenda</a></li><li>a science column for children <a href=\"https://edu.inaf.it/briciole-spaziali\" target=\"_blank\" rel=\"noopener\">Briciole Spaziali</a> (&lt;14 years)</li><li>development of the comic <a href=\"https://edu.inaf.it/wp-content/uploads/2023/10/Frammenti-di-cielo-ONLINE.pdf\" target=\"_blank\" rel=\"noopener\">Frammenti di Cielo</a></li><li>development of a second comics project (Frammenti di cielo^2)</li></ul></li><li><a href=\"https://edu.inaf.it/approfondimenti/scoperte/messaggero-delle-stelle-teatro/\" target=\"_blank\" rel=\"noopener\">articles</a> and festival participation</li><li>I am a member of <a href=\"https://sites.google.com/inaf.it/universall/home\" target=\"_blank\" rel=\"noopener\">Univers@ll</a>, the INAF team dedicated to inclusion and diversity</li><li>I am co-responsible with Dr. Anna Wolter (IASF Milan) for outreach in the ASTRI MA project</li></ul>",
         "links": []
       },
       {

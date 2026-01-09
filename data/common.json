@@ -15,17 +15,17 @@
     {
       "label": "Pi\u00f9 Spazio Per Tutti",
       "url": "https://www.youtube.com/piuspaziopertutti",
-      "preview_image": "assets/img/youtube-thumb.png"
+      "preview_image": "assets/img/youtube-thumb.jpg"
     },
     {
       "label": "Martina Roma Caput Astri",
       "url": "https://www.instagram.com/martinaromacaputastri/reels/?hl=en",
-      "preview_image": "assets/img/instagram-thumb.png"
+      "preview_image": "assets/img/instagram-thumb.jpg"
     },
     {
       "label": "Roma Caput Astri",
       "url": "https://www.facebook.com/RomaCaputAstri/?locale=it_IT",
-      "preview_image": "assets/img/facebook-thumb.png"
+      "preview_image": "assets/img/facebook-thumb.jpg"
     }
   ],
   "collaborations": [
@@ -554,7 +554,7 @@
   "outreach": {
     "ongoing": [
       {
-        "text": "Diverse attivit\u00e0 all'interno di INAF-IAPS:<ul class=\"outreach-sublist\"><li>progetto <strong>\"Circuito Cinema\"</strong></li><li>progetto <strong>\"Spazio Aperto\"</strong>, programma di divulgazione scientifica nel carcere di Rebibbia</li><li>seminari nelle scuole</li><li>organizzazione dei contenuti della mostra INAF <strong>\"Macchine del Tempo\"</strong> a Roma (novembre)</li><li>Nel <a href=\"https://storie.inaf.it/\" target=\"_blank\" rel=\"noopener\">Gruppo Storie</a> (sono membro dal 2020) di INAF sono coinvolta in diverse attivit\u00e0 che continueranno in futuro: podcast <a href=\"https://edu.inaf.it/approfondimenti/astrokids/martina-tremenda-podcast/\" target=\"_blank\" rel=\"noopener\">Martina Tremenda</a> e rubrica scientifica per bambini <a href=\"https://edu.inaf.it/briciole-spaziali\" target=\"_blank\" rel=\"noopener\">Briciole Spaziali</a> (&lt;14 anni)</li><li>sviluppo di un secondo progetto di fumetto (Frammenti di cielo^2)</li><li>sviluppo del fumetto <a href=\"https://edu.inaf.it/wp-content/uploads/2023/10/Frammenti-di-cielo-ONLINE.pdf\" target=\"_blank\" rel=\"noopener\">Frammenti di Cielo</a></li><li><a href=\"https://edu.inaf.it/approfondimenti/scoperte/messaggero-delle-stelle-teatro/\" target=\"_blank\" rel=\"noopener\">articoli</a> e partecipazioni a festival</li><li>sono membro di <a href=\"https://sites.google.com/inaf.it/universall/home\" target=\"_blank\" rel=\"noopener\">Univers@ll</a>, il team INAF dedicato a inclusione e diversit\u00e0</li><li>sono co-responsabile con la Dr.ssa Anna Wolter (IASF Milano) per l'outreach del progetto ASTRI MA</li></ul>",
+        "text": "Diverse attivit\u00e0 all'interno di INAF-IAPS:<ul class=\"outreach-sublist\"><li>progetto <strong>\"Circuito Cinema\"</strong></li><li>progetto <strong>\"Spazio Aperto\"</strong>, programma di divulgazione scientifica nel carcere di Rebibbia</li><li>seminari nelle scuole</li><li>organizzazione dei contenuti della mostra INAF <strong>\"Macchine del Tempo\"</strong> a Roma (novembre)</li><li>Nel <a href=\"https://storie.inaf.it/\" target=\"_blank\" rel=\"noopener\">Gruppo Storie</a> (sono membro dal 2020) di INAF sono coinvolta in diverse attivit\u00e0 che continueranno in futuro:<ul class=\"outreach-sublist\"><li>podcast <a href=\"https://edu.inaf.it/approfondimenti/astrokids/martina-tremenda-podcast/\" target=\"_blank\" rel=\"noopener\">Martina Tremenda</a></li><li>rubrica scientifica per bambini <a href=\"https://edu.inaf.it/briciole-spaziali\" target=\"_blank\" rel=\"noopener\">Briciole Spaziali</a> (&lt;14 anni)</li><li>sviluppo del fumetto <a href=\"https://edu.inaf.it/wp-content/uploads/2023/10/Frammenti-di-cielo-ONLINE.pdf\" target=\"_blank\" rel=\"noopener\">Frammenti di Cielo</a></li><li>sviluppo di un secondo progetto di fumetto (Frammenti di cielo^2)</li></ul></li><li><a href=\"https://edu.inaf.it/approfondimenti/scoperte/messaggero-delle-stelle-teatro/\" target=\"_blank\" rel=\"noopener\">articoli</a> e partecipazioni a festival</li><li>sono membro di <a href=\"https://sites.google.com/inaf.it/universall/home\" target=\"_blank\" rel=\"noopener\">Univers@ll</a>, il team INAF dedicato a inclusione e diversit\u00e0</li><li>sono co-responsabile con la Dr.ssa Anna Wolter (IASF Milano) per l'outreach del progetto ASTRI MA</li></ul>",
         "links": []
       },
       {
