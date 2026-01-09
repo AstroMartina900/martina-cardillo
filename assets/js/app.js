@@ -496,6 +496,16 @@ const setupDropdowns = () => {
     }
   };
 
+  const toggleDropdown = (dropdown) => {
+    const isOpen = dropdown.classList.contains("is-open");
+    if (isOpen) {
+      closeAll();
+      return;
+    }
+    closeAll();
+    openDropdown(dropdown);
+  };
+
   dropdowns.forEach((dropdown) => {
     const button = dropdown.querySelector(".nav-button");
     const menu = dropdown.querySelector(".dropdown-menu");
@@ -524,14 +534,17 @@ const setupDropdowns = () => {
 
     if (button.dataset.homeLink === "true") {
       button.addEventListener("click", (event) => {
-        if (document.body.dataset.page !== "home") {
+        if (document.body.dataset.page === "home") {
           event.preventDefault();
-          const target =
-            button.getAttribute("href") ||
-            button.getAttribute("data-home-href") ||
-            "index.html";
-          window.location.href = target;
+          toggleDropdown(dropdown);
+          return;
         }
+        event.preventDefault();
+        const target =
+          button.getAttribute("href") ||
+          button.getAttribute("data-home-href") ||
+          "index.html";
+        window.location.href = target;
       });
     }
 
