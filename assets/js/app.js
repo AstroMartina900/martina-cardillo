@@ -221,35 +221,92 @@ const renderOngoing = (container, items, labels) => {
     .join("");
 };
 
+const getSocialPlatformMeta = (hostname) => {
+  if (hostname.includes("youtube.com") || hostname.includes("youtu.be")) {
+    return {
+      label: "YouTube",
+      key: "youtube",
+      icon: `
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <rect x="2.5" y="5" width="19" height="14" rx="4" fill="none" stroke="currentColor" stroke-width="1.8" />
+          <path d="M10 9.2 16 12 10 14.8z" fill="currentColor" />
+        </svg>
+      `,
+    };
+  }
+  if (hostname.includes("instagram.com")) {
+    return {
+      label: "Instagram",
+      key: "instagram",
+      icon: `
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <rect x="3" y="3" width="18" height="18" rx="5" fill="none" stroke="currentColor" stroke-width="1.8" />
+          <circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.8" />
+          <circle cx="17" cy="7" r="1.2" fill="currentColor" />
+        </svg>
+      `,
+    };
+  }
+  if (hostname.includes("facebook.com")) {
+    return {
+      label: "Facebook",
+      key: "facebook",
+      icon: `
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path
+            d="M14.6 8.6V6.6c0-.9.6-1.4 1.5-1.4h1.5V2.6H16c-2.6 0-4.3 1.7-4.3 4.3v1.7H9.6v2.5h2.1V21h2.9v-9.9h2.3l.3-2.5h-2.6z"
+            fill="currentColor"
+          />
+        </svg>
+      `,
+    };
+  }
+  const base = hostname.split(".")[0] || hostname;
+  const label = base.charAt(0).toUpperCase() + base.slice(1);
+  return {
+    label,
+    key: "generic",
+    icon: `
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path
+          d="M8.8 12.2a3.6 3.6 0 0 1 0-5.1l2.1-2.1a3.6 3.6 0 0 1 5.1 5.1l-1 1"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M15.2 11.8a3.6 3.6 0 0 1 0 5.1l-2.1 2.1a3.6 3.6 0 0 1-5.1-5.1l1-1"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+    `,
+  };
+};
+
 const renderSocial = (container, items) => {
   if (!container || !items) return;
   container.innerHTML = items
-    .map(
-      (item) => {
-        const url = new URL(item.url);
-        const hostname = url.hostname.replace(/^www\./, "");
-        const platform = (() => {
-          if (hostname.includes("youtube.com") || hostname.includes("youtu.be")) {
-            return "YouTube";
-          }
-          if (hostname.includes("instagram.com")) {
-            return "Instagram";
-          }
-          if (hostname.includes("facebook.com")) {
-            return "Facebook";
-          }
-          const base = hostname.split(".")[0] || hostname;
-          return base.charAt(0).toUpperCase() + base.slice(1);
-        })();
-        const preview = item.preview_image
-          ? new URL(item.preview_image, rootUrl).toString()
-          : `https://www.google.com/s2/favicons?domain=${hostname}&sz=128`;
-        return `
+    .map((item) => {
+      const url = new URL(item.url);
+      const hostname = url.hostname.replace(/^www\./, "");
+      const platform = getSocialPlatformMeta(hostname);
+      const preview = item.preview_image
+        ? new URL(item.preview_image, rootUrl).toString()
+        : `https://www.google.com/s2/favicons?domain=${hostname}&sz=128`;
+      return `
       <li>
         <a class="social-card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener">
           <div class="social-preview">
             <div class="social-meta">
-              <span class="social-platform">${escapeHtml(platform)}</span>
+              <span class="social-platform social-platform--${platform.key}">
+                ${platform.icon}
+              </span>
               <span class="social-label">${escapeHtml(item.label)}</span>
             </div>
             <img src="${preview}" alt="" loading="lazy" />
@@ -257,8 +314,7 @@ const renderSocial = (container, items) => {
         </a>
       </li>
     `;
-      },
-    )
+    })
     .join("");
 };
 
