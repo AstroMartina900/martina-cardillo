@@ -32,6 +32,7 @@ body {
     radial-gradient(circle at 80% 20%, rgba(255, 106, 0, 0.28), transparent 50%),
     linear-gradient(135deg, var(--bg), var(--bg-soft));
   min-height: 100vh;
+  overflow-x: hidden;
 }
 
 a {
@@ -229,7 +230,7 @@ p {
 
 .hero {
   display: grid;
-  grid-template-columns: 0.2fr 1fr;
+  grid-template-columns: minmax(300px, 0.28fr) 1fr;
   grid-template-areas: "card content";
   gap: 2.5rem;
   align-items: center;
@@ -302,6 +303,9 @@ section[id] {
   border-radius: 24px;
   padding: 1.5rem;
   box-shadow: var(--shadow);
+  min-width: 300px;
+  overflow-wrap: normal;
+  word-break: normal;
 }
 
 .hero-card img {
@@ -473,6 +477,7 @@ section[id] {
 
 .education-experience li {
   line-height: 1.6;
+  overflow-wrap: break-word;
 }
 
 .chip-list li {
@@ -925,11 +930,34 @@ section[id] {
 }
 
 @media (max-width: 900px) {
+  .nav {
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 0.75rem 1rem;
+  }
+
+  .nav-links {
+    flex-wrap: wrap;
+    white-space: normal;
+    row-gap: 0.5rem;
+    column-gap: 0.6rem;
+    overflow: hidden;
+  }
+
+  .lang-toggle {
+    margin-left: auto;
+  }
+
   .hero {
     grid-template-columns: 1fr;
     grid-template-areas:
       "content"
       "card";
+  }
+
+  .hero-card {
+    width: 100%;
+    justify-self: stretch;
   }
 
   .hero-description {
@@ -941,10 +969,62 @@ section[id] {
     flex: 1 1 auto;
   }
 
+  .hero-logo-link {
+    margin: 0;
+    transform: none;
+    align-self: flex-start;
+  }
+
   .grid-two {
     grid-template-columns: 1fr;
   }
 
+  .education-experience-layout,
+  .research-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .education-experience-media,
+  .research-media {
+    justify-items: center;
+  }
+
+  .education-experience-media figure {
+    width: min(320px, 100%);
+  }
+
+  .supervision-row {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .supervision-media {
+    width: min(220px, 60%);
+    min-width: 0;
+    transform: none;
+    align-self: center;
+  }
+
+  .page-hero {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .page-hero img {
+    width: min(260px, 80%);
+    align-self: center;
+  }
+
+  .news-hero-image {
+    transform: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .nav-links a,
+  .nav-button {
+    font-size: 0.85rem;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
