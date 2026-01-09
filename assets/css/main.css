@@ -161,7 +161,7 @@ img {
 
 .nav-dropdown:hover .dropdown-menu,
 .dropdown-menu:hover {
-  display: block;
+  display: none;
 }
 
 .nav-dropdown.is-open .dropdown-menu {
