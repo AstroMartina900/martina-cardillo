@@ -41,13 +41,13 @@
     "byYear": {
       "2024": [
         {
-          "text": "Abe, K. et al,: \"A new method of reconstructing images of gamma-ray telescopes applied to the LST-1 of CTAO\"",
+          "text": "Abe, K. et al., 2024, A&A: \"A new method of reconstructing images of gamma-ray telescopes applied to the LST-1 of CTAO\"",
           "links": [
             "https://doi.org/10.1051/0004-6361/202450889"
           ]
         },
         {
-          "text": "Abe, K. et al: \"A detailed study of the very high-energy Crab pulsar emission with the LST-1\"",
+          "text": "Abe, K. et al., 2024, A&A: \"A detailed study of the very high-energy Crab pulsar emission with the LST-1\"",
           "links": [
             "https://doi.org/10.1051/0004-6361/202450059"
           ]
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "text": "Ferrazzoli, R., Prokhorov D., Bucciantini, N., Slane, P., Vink, J., Cardillo, M. et al.: \"Discovery of a shock-compressed magnetic field in the north-western rim of the young supernova remnant RX J1713.7-3946 with X-ray polarimetry\"",
+          "text": "Ferrazzoli, R., Prokhorov D., Bucciantini, N., Slane, P., Vink, J., Cardillo, M. et al., 2024, ApJL: \"Discovery of a shock-compressed magnetic field in the north-western rim of the young supernova remnant RX J1713.7-3946 with X-ray polarimetry\"",
           "links": [
             "https://doi.org/10.3847/2041-8213/ad4a68"
           ]
@@ -73,25 +73,25 @@
       ],
       "2023": [
         {
-          "text": "Abe, H et al.: \"Performance of the joint LST-1 and MAGIC observations evaluated with Crab Nebula data\"",
+          "text": "Abe, H et al., 2023, A&A: \"Performance of the joint LST-1 and MAGIC observations evaluated with Crab Nebula data\"",
           "links": [
             "https://doi.org/10.1051/0004-6361/202346927"
           ]
         },
         {
-          "text": "Abe, H. et al.: \"Star tracking for pointing determination of Imaging Atmospheric Cherenkov Telescopes: Application to the Large-Sized Telescope of the Cherenkov Telescope Array\"",
+          "text": "Abe, H. et al., 2023, A&A: \"Star tracking for pointing determination of Imaging Atmospheric Cherenkov Telescopes: Application to the Large-Sized Telescope of the Cherenkov Telescope Array\"",
           "links": [
             "https://doi.org/10.1051/0004-6361/202347128"
           ]
         },
         {
-          "text": "Tavani, M. et al.: \"AGILE Gamma-Ray Detection of the Exceptional GRB 221009A\"",
+          "text": "Tavani, M. et al., 2023, ApJL: \"AGILE Gamma-Ray Detection of the Exceptional GRB 221009A\"",
           "links": [
             "https://doi.org/10.3847/2041-8213/acfaff"
           ]
         },
         {
-          "text": "Abe et al.: \"Observations of the Crab Nebula and Pulsar with the Large-sized Telescope Prototype of the Cherenkov Telescope Array\"",
+          "text": "Abe et al., 2023, ApJ: \"Observations of the Crab Nebula and Pulsar with the Large-sized Telescope Prototype of the Cherenkov Telescope Array\"",
           "links": [
             "https://doi.org/10.3847/1538-4357/ace89d"
           ]
@@ -103,7 +103,7 @@
           ]
         },
         {
-          "text": "Acero et al.: \"Sensitivity of the Cherenkov Telescope Array to spectral signatures of hadronic PeVatrons with application to Galactic Supernova Remnants\"",
+          "text": "Acero et al., 2023, Astropart. Phys.: \"Sensitivity of the Cherenkov Telescope Array to spectral signatures of hadronic PeVatrons with application to Galactic Supernova Remnants\"",
           "links": [
             "https://doi.org/10.1016/j.astropartphys.2023.102850"
           ]
@@ -112,12 +112,6 @@
           "text": "M.Cardillo & A.Giuliani, 2023, Appl. Sci.,13, 6433, The LHAASO PeVatron Bright Sky: What We Learned.",
           "links": [
             "https://doi.org/10.3390/app13116433"
-          ]
-        },
-        {
-          "text": "M. Cardillo for the ASTRI project, 2023, Proceedings of Science, accepted, \"The ASTRI Mini-Array: in the search for hidden Pevatrons\"",
-          "links": [
-            "https://doi.org/10.48550/arXiv.2302.10059"
           ]
         }
       ],
@@ -129,7 +123,7 @@
           ]
         },
         {
-          "text": "D'A\u00ec, E. Amato, A. Burtovoi, A. A. Compagnino, M. Fiori, A. Giuliani, N. La Palombara, A. Paizis, G. Piano, F. G. Saturni, A. Tutone, A. Belfiore, M. Cardillo et al., JHEAP, 35, 139, \"Galactic observatory science with the ASTRI Mini-Array at the Observatorio del Teide\"",
+          "text": "D'A\u00ec, E. Amato, A. Burtovoi, A. A. Compagnino, M. Fiori, A. Giuliani, N. La Palombara, A. Paizis, G. Piano, F. G. Saturni, A. Tutone, A. Belfiore, M. Cardillo et al., 2022, JHEAP, 35, 139, \"Galactic observatory science with the ASTRI Mini-Array at the Observatorio del Teide\"",
           "links": [
             "https://www.sciencedirect.com/science/article/abs/pii/S2214404822000350"
           ]
@@ -165,15 +159,9 @@
           ]
         },
         {
-          "text": "Abe et al. 2022, \"Multi-wavelength study of the galactic PeVatron candidate LHAASO J2108+5157\", 2022arXiv221000775A",
+          "text": "Abe et al., 2022, arXiv:2210.00775: \"Multi-wavelength study of the galactic PeVatron candidate LHAASO J2108+5157\"",
           "links": [
             "https://arxiv.org/pdf/2210.00775.pdf"
-          ]
-        },
-        {
-          "text": "Rodriguez-Fernandez G., Bigongiari C., Bulgarelli A., Camarri P., Cardillo M. et al., 2022, \"STACEX: RPC-based detector for a multi-messenger observatory in the Southern Hemisphere\", 2022icrc.confE.715R",
-          "links": [
-            "https://arxiv.org/pdf/2109.08594.pdf"
           ]
         }
       ],
@@ -237,7 +225,7 @@
           ]
         },
         {
-          "text": "Cardillo, M., \", 2019, Galaxies, 7, 49 \"The important Role of Cosmic-Ray Re-Acceleration",
+          "text": "Cardillo, M., 2019, Galaxies, 7, 49: \"The important Role of Cosmic-Ray Re-Acceleration\"",
           "links": [
             "https://ui.adsabs.harvard.edu/abs/2019Galax...7...49C/abstract"
           ]
@@ -269,31 +257,19 @@
         {
           "text": "Cardillo, M., Marchili, N., Piano, G. et al., 2019, A&A, 622, 57, \" The Orion Region: evidence of enhanced Cosmic Rays density in a Stellar Wind Forward Shock interaction with a high density shell.\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2019A%26A...622A..57C"
+            "https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..57C/abstract"
           ]
         },
         {
           "text": "Loru, S., Pellizzoni, A., Egron, E., Righini, S., Iacolina, M.N., Milas, S., Cardillo, M. et al., 2018, MNRAS, 482, 3857, \" Investigating the high-frequency spectral features of SNRs Tycho, W44 and IC443 with the Sardinia Radio Telescope \"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2019MNRAS.482.3857L"
+            "https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.3857L/abstract"
           ]
         },
         {
           "text": "Lucarelli, F., M. Tavani, G. Piano, A. Bulgarelli, I. Donnarumma, F. Verrecchia, C. Pittori, L. A. Antonelli, A. Argan, G. Barbiellini, P. Caraveo, M. Cardillo et al., 2018, ApJ, 870, 136, \" AGILE detection of gamma-ray sources coincident with cosmic neutrino events \"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2018arXiv181107689L"
-          ]
-        },
-        {
-          "text": "Di Sciascio, G.; Camarri, P.; Santonico, R.; Cardillo, M. et al., \"STACEX: RPC-based detector for a multi-messenger observatory \", 2019ICRC, 36, 210",
-          "links": [
-            "https://ui.adsabs.harvard.edu/abs/2019ICRC...36..660D/abstract"
-          ]
-        },
-        {
-          "text": "M. Cardillo, \"The role of re-acceleration in the understanding of Cosmic-Ray direct and indirect data\", 2019ICRC, 36, 210",
-          "links": [
-            "https://ui.adsabs.harvard.edu/abs/2019ICRC...36..210C/abstract"
+            "https://ui.adsabs.harvard.edu/abs/2018arXiv181107689L/abstract"
           ]
         }
       ],
@@ -301,15 +277,199 @@
         {
           "text": "Marchili, N.; Piano, G.; Cardillo, M. et al., 2018, A&A, 615, 82, \" A new gamma-ray source unveiled by AGILE in the region of Orion nebula\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2018A%26A...615A..82M"
+            "https://ui.adsabs.harvard.edu/abs/2018A%26A...615A..82M/abstract"
           ]
         },
         {
           "text": "Cattaneo, P.W., Rappoldi, A., Argan, A., Barbiellini, G., Boffelli, F., Bulgarelli, A.m Buonomo, B., Cardillo, M. et al., 2018, ApJ, 861, 125, \" Calibration of AGILE-GRID with On-ground Data and Monte Carlo Simulations\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2018ApJ...861..125C"
+            "https://ui.adsabs.harvard.edu/abs/2018ApJ...861..125C/abstract"
+          ]
+        }
+      ],
+      "2017": [
+        {
+          "text": "Verrecchia, F.; Tavani, M.; Donnarumma, I.; Bulgarelli, A.; Evangelista, Y.; Pacciani, L.; Ursi, A.; Piano, G.; Pilia, M.; Cardillo, M. et al., 2017, ApJ, 850, 27V, \" AGILE Observations of the Gravitational-wave Source GW170817: Constraining Gamma-Ray Emission from an NS-NS Coalescence \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2017ApJ...850L..27V/abstract"
           ]
         },
+        {
+          "text": "E. Egron, A. Pellizzoni, M.N. Iacolina, S.Loru, M. Marongiu, S.Righini, M.Cardillo et al., 2017, MNRAS, 470, 1329, \" Imaging of SNR IC443 and W44 with the Sardinia Radio Telescope at 1.5 GHz and 7 GHz.\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.1329E/abstract"
+          ]
+        },
+        {
+          "text": "F.Verrecchia et al., 2017, ApJ, 847L, 20V \" AGILE observations of the GW source GW170104 \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2017ApJ...847L..20V/abstract"
+          ]
+        },
+        {
+          "text": "Abbott et al., 2017, ApJ, 848L, 12A, \" Multi-messenger Observations of a Binary Neutron Star Merger\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2017ApJ...848L..12A/abstract"
+          ]
+        },
+        {
+          "text": "De Angelis, A. et al., 2017, ExA, 44, 25D, \" The e-ASTROGAM mission. Exploring the extreme Universe with gamma rays in the MeV - GeV range \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2017ExA....44...25D/abstract"
+          ]
+        },
+        {
+          "text": "De Angelis, A. et al., 2017, arXiv:1711.01265, \"Science with e-ASTROGAM (A space mission for MeV-GeV gamma-ray astrophysics)\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2017arXiv171101265D/abstract"
+          ]
+        }
+      ],
+      "2016": [
+        {
+          "text": "M.Tavani, on behalf of AGILE collaboration, 2016, ApJ, 825, 4T, \"AGILE Observations of the Gravitational-wave Event GW150914\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2016ApJ...825L...4T/abstract"
+          ]
+        },
+        {
+          "text": "M.Cardillo, E.Amato, P.Blasi, A&A, 595, 58, 2016,\" The Supernova Remnant W44:a case of Cosmic Ray reacceleration. \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2016A%26A...595A..58C/abstract"
+          ]
+        }
+      ],
+      "2015": [
+        {
+          "text": "M.Cardillo, E.Amato, P.Blasi, 2015, APh, 69, 1C, \" On the cosmic ray spectrum from type II supernovae expanding in their red giant presupernova wind\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2015APh....69....1C/abstract"
+          ]
+        }
+      ],
+      "2014": [
+        {
+          "text": "F. de Gasperin, C. Evoli, M. Bruggen, A. Hektor, M. Cardillo et al., 2014, A&A, 568, A107, \"Discovery of the supernova remnant G351.0-5.4 \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2014A%26A...568A.107D/abstract"
+          ]
+        },
+        {
+          "text": "M. Cardillo, M.Tavani, A.Giuliani et al., 2014, A&A, 565, 74-85, \" The supernova remnant W44: confirmations and challenges for cosmic-ray acceleration \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2014A%26A...565A..74C/abstract"
+          ]
+        }
+      ],
+      "2013": [
+        {
+          "text": "F.Verrecchia et al., AGILE COLLABORATION, 2013, A&A, 558, 137V, \" An updated list of AGILE bright gamma-ray sources and their variability in pointing mode \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2013A%26A...558A.137V/abstract"
+          ]
+        },
+        {
+          "text": "E. Striani et al., AGILE COLLABORATION, 2013, ApJ, 765, 52S, \" Variable Gamma-Ray Emission from the Crab Nebula: Short Flares and Long \"Waves \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2013ApJ...765...52S/abstract"
+          ]
+        }
+      ],
+      "2012": [
+        {
+          "text": "F. Longo et al., AGILE COLLABORATION, 2012, A&A, 547, 95L, \" Upper limits on the high- energy emission from gamma-ray bursts observed by AGILE-GRID \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2012A%26A...547A..95L/abstract"
+          ]
+        },
+        {
+          "text": "G. Piano et al., AGILE COLLABORATION, 2012, A&A, 545, 110P, \" The AGILE monitoring of Cygnus X-3: transient gamma-ray emission and spectral constraints \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2012A%26A...545A.110P/abstract"
+          ]
+        }
+      ],
+      "2011": [
+        {
+          "text": "E. Striani et al., AGILE COLLABORATION, 2011, ApJ, 741, 5S, \" The Crab Nebula Super-flare in 2011 April: Extremely Fast Particle Acceleration and Gamma-Ray Emission \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2011ApJ...741L...5S/abstract"
+          ]
+        },
+        {
+          "text": "S. Vercellone et al., AGILE COLLABORATION, 2011, ApJ, 736, 38V, \" The Brightest Gamma- Ray Flaring Blazar in the Sky: AGILE and Multi-wavelength Observations of 3C 454.3 During 2010 November \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2011ApJ...736L..38V/abstract"
+          ]
+        },
+        {
+          "text": "A. Giuliani, M.Cardillo, M.Tavani et al., 2011, ApJ, 742, L30, \" Neutral pion emission from accelerated protons in the Supernova Ramnant W44 \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2011ApJ...742L..30G/abstract"
+          ]
+        }
+      ],
+      "2010": [
+        {
+          "text": "A.Giuliani, M. Tavani, A. Bulgarelli, E. Striani, S. Sabatini, M. Cardillo et al, AGILE COLLABORATION, 2010, A&A, 516L, 11G, \" AGILE detection of GeV gamma-ray emission from the SNR W28 \"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2010A%26A...516L..11G/abstract"
+          ]
+        }
+      ],
+      "2025": [
+        {
+          "text": "Abe, K. et al., 2025, ApJL: \"GRB 221009A: Observations with LST-1 of CTAO and Implications for Structured Jets in Long Gamma-Ray Bursts\"",
+          "links": [
+            "https://doi.org/10.3847/2041-8213/ade4cf"
+          ]
+        },
+        {
+          "text": "Abe, K. et al., 2025, A&A: \"Detection of the Geminga pulsar at energies down to 20 GeV with the LST-1 of CTAO\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202554350"
+          ]
+        },
+        {
+          "text": "Abe, K. et al., 2025, A&A: \"Detection of RS Oph with LST-1 and modelling of its HE/VHE gamma-ray emission\"",
+          "links": [
+            "https://doi.org/10.1051/0004-6361/202452447"
+          ]
+        }
+      ]
+    },
+    "proceedingsByYear": {
+      "2023": [
+        {
+          "text": "M. Cardillo for the ASTRI project, 2023, Proceedings of Science, accepted, \"The ASTRI Mini-Array: in the search for hidden Pevatrons\"",
+          "links": [
+            "https://doi.org/10.48550/arXiv.2302.10059"
+          ]
+        }
+      ],
+      "2022": [
+        {
+          "text": "Rodriguez-Fernandez G., Bigongiari C., Bulgarelli A., Camarri P., Cardillo M. et al., 2022, ICRC, 715: \"STACEX: RPC-based detector for a multi-messenger observatory in the Southern Hemisphere\"",
+          "links": [
+            "https://arxiv.org/pdf/2109.08594.pdf"
+          ]
+        }
+      ],
+      "2019": [
+        {
+          "text": "Di Sciascio, G.; Camarri, P.; Santonico, R.; Cardillo, M. et al., 2019, ICRC, 36, 660: \"STACEX: RPC-based detector for a multi-messenger observatory\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019ICRC...36..660D/abstract"
+          ]
+        },
+        {
+          "text": "M. Cardillo, 2019, ICRC, 36, 210: \"The role of re-acceleration in the understanding of Cosmic-Ray direct and indirect data\"",
+          "links": [
+            "https://ui.adsabs.harvard.edu/abs/2019ICRC...36..210C/abstract"
+          ]
+        }
+      ],
+      "2018": [
         {
           "text": "Lombardi, S.; Antonelli, L.A.; Bigongiari, C.; Cardillo, M. et al., 2018, SPIE, \"ASTRI data reduction software in the framework of the Chrenkov Telescope Array\"",
           "links": [
@@ -319,233 +479,99 @@
       ],
       "2017": [
         {
-          "text": "Verrecchia, F.; Tavani, M.; Donnarumma, I.; Bulgarelli, A.; Evangelista, Y.; Pacciani, L.; Ursi, A.; Piano, G.; Pilia, M.; Cardillo, M. et al., 2017, ApJ, 850, 27V, \" AGILE Observations of the Gravitational-wave Source GW170817: Constraining Gamma-Ray Emission from an NS-NS Coalescence \"",
+          "text": "V. Taticheff et al., 2017, SPIE, 9905, 2NT: \"The e-ASTROGAM gamma-ray space mission\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2017ApJ...850L..27V"
-          ]
-        },
-        {
-          "text": "E. Egron, A. Pellizzoni, M.N. Iacolina, S.Loru, M. Marongiu, S.Righini, M.Cardillo et al., 2017, MNRAS, 470, 1329, \" Imaging of SNR IC443 and W44 with the Sardinia Radio Telescope at 1.5 GHz and 7 GHz.\"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2017MNRAS.470.1329E"
-          ]
-        },
-        {
-          "text": "F.Verrecchia et al., 2017, ApJ, 847L, 20V \" AGILE observations of the GW source GW170104 \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2017ApJ...847L..20V"
-          ]
-        },
-        {
-          "text": "Abbott et al., 2017, ApJ, 848L, 12A, \" Multi-messenger Observations of a Binary Neutron Star Merger\"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2017ApJ...848L..12A"
-          ]
-        },
-        {
-          "text": "De Angelis, A. et al., 2017, ExA, 44, 25D, \" The e-ASTROGAM mission. Exploring the extreme Universe with gamma rays in the MeV - GeV range \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2017ExA....44...25D"
-          ]
-        },
-        {
-          "text": "De Angelis, A. et al., 2017, arXiv:1711.01265, \"Science with e-ASTROGAM (A space mission for MeV-GeV gamma-ray astrophysics)\"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2017arXiv171101265D"
-          ]
-        },
-        {
-          "text": "V. Taticheff et al., 2017, proceeding SPIE, \" The e-ASTROGAM gamma-ray space mission \", 2016SPIE.9905E..2NT",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2016SPIE.9905E..2NT"
+            "https://ui.adsabs.harvard.edu/abs/2016SPIE.9905E..2NT/abstract"
           ]
         },
         {
           "text": "Egron, E.; Pellizzoni, A.; Iacolina, M. N.; Loru, S.; Marongiu, M.; Righini, S.; Cardillo, M.; et al., 2017, 2017, IAUS, 331, 184E, \"High-resolution imaging of SNR IC443 and W44 with the Sardinia Radio Telescope\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2017IAUS..331..184E"
+            "https://ui.adsabs.harvard.edu/abs/2017IAUS..331..184E/abstract"
           ]
         },
         {
           "text": "Pellizzoni, A.; Egron, E.; Iacolina, M. N.; Loru, S.; Marongiu, M.; Righini, S.; Cardillo, M.; et al., 2017, IAUS..331..194P, \"Evidence for a wide electron spectra scatter among different SNR regions from high radio-frequency observations\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2017IAUS..331..194P"
+            "https://ui.adsabs.harvard.edu/abs/2017IAUS..331..194P/abstract"
           ]
         }
       ],
       "2016": [
         {
-          "text": "M.Tavani, on behalf of AGILE collaboration, 2016, ApJ, 825, 4T, \"AGILE Observations of the Gravitational-wave Event GW150914\"",
+          "text": "M.Cardillo, E.Amato, P.Blasi, 2016, sros.confE, 90C: \"The middle aged SNRs W44: most likely reacceleration without any break\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2016ApJ...825L...4T"
+            "https://ui.adsabs.harvard.edu/abs/2016sros.confE..90C/abstract"
           ]
         },
         {
-          "text": "M.Cardillo, E.Amato, P.Blasi, A&A, 595, 58, 2016,\" The Supernova Remnant W44:a case of Cosmic Ray reacceleration. \"",
+          "text": "P.Soffitta et al., 2016, SPIE, 9905, 15S: \"XIPE: the X-ray imaging polarimetry explorer\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2016A%26A...595A..58C"
-          ]
-        },
-        {
-          "text": "M.Cardillo, E.Amato, P.Blasi, 2016, \" The middle aged SNRs W44: most likely reacceleration without any break \", sros.confE, 90C",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2016sros.confE..90C"
-          ]
-        },
-        {
-          "text": "P.Soffitta et al., 2016, proceeding SPIE, \" XIPE: the X-ray imaging polarimetry explorer \", 2016SPIE.9905E..15S",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2016A%26A...595A..58C"
+            "https://ui.adsabs.harvard.edu/abs/2016A%26A...595A..58C/abstract"
           ]
         }
       ],
       "2015": [
         {
-          "text": "M.Cardillo, E.Amato, P.Blasi, 2015, APh, 69, 1C, \" On the cosmic ray spectrum from type II supernovae expanding in their red giant presupernova wind\"",
+          "text": "M.Cardillo, E.Amato, P. Blasi, 2015, ICRC, 34, 531: \"On the cosmic ray spectrum from type II Supernovae expanding in their red giant presupernova wind\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2015APh....69 1C"
+            "https://ui.adsabs.harvard.edu/abs/2015ICRC...34..531C/abstract"
           ]
         },
         {
-          "text": "M.Cardillo, E.Amato, P. Blasi, 2015, \" On the cosmic ray spectrum from type II Supernovae expanding in their red giant presupernova wind \", ICRC, 34, 531C",
+          "text": "M. Cardillo, 2015, EPJWC, 10502004: \"On the cosmic ray spectrum from type II Supernovae expanding in their red giant presupernova wind\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2015ICRC...34..531C"
+            "https://ui.adsabs.harvard.edu/abs/2015EPJWC.10502004C/abstract"
           ]
         },
         {
-          "text": "M. Cardillo, 2015, \"On the cosmic ray spectrum from type II Supernovae expanding in their red giant presupernova wind \", EPJWC, 10502004C",
+          "text": "M. Cardillo, 2015, EPJWC, 9003001: \"Cosmic-ray world with gamma-ray astronomy: a wealth on information, an even more open issue\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2015EPJWC.10502004C"
-          ]
-        },
-        {
-          "text": "M. Cardillo, 2015, \"Cosmic-ray world with gamma-ray astronomy: a wealth on information, an even more open issue \", EPJWC, 9003001C",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2015EPJWC..9003001C"
+            "https://ui.adsabs.harvard.edu/abs/2015EPJWC..9003001C/abstract"
           ]
         }
       ],
       "2014": [
         {
-          "text": "F. de Gasperin, C. Evoli, M. Bruggen, A. Hektor, M. Cardillo et al., 2014, A&A, 568, A107, \"Discovery of the supernova remnant G351.0-5.4 \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2014A%26A...568A.107D"
-          ]
-        },
-        {
-          "text": "M.Cardillo, M. Tavani, A.Giuliani, 2014, NuPhS, 256, 65 \" The origin of Cosmic-Rays from SNRs: confirmations and challenges after the first direct proof \".harvard.edu/abs/2014NuPhS.256...65C",
+          "text": "M.Cardillo, M. Tavani, A.Giuliani, 2014, NuPhS, 256, 65: \"The origin of Cosmic-Rays from SNRs: confirmations and challenges after the first direct proof\"",
           "links": []
-        },
-        {
-          "text": "M. Cardillo, M.Tavani, A.Giuliani et al., 2014, A&A, 565, 74-85, \" The supernova remnant W44: confirmations and challenges for cosmic-ray acceleration \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2014A%26A...565A..74C"
-          ]
         }
       ],
       "2013": [
         {
-          "text": "F.Verrecchia et al., AGILE COLLABORATION, 2013, A&A, 558, 137V, \" An updated list of AGILE bright gamma-ray sources and their variability in pointing mode \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2013A%26A...558A.137V"
-          ]
-        },
-        {
           "text": "A. Morselli et al., ASTROGAM COLLABORATION, 2013, NuPhS, 239, 193, \" Gamma-Light: High-Energy Astrophysics above 10 MeV \"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2013NuPhS.239..193M"
-          ]
-        },
-        {
-          "text": "E. Striani et al., AGILE COLLABORATION, 2013, ApJ, 765, 52S, \" Variable Gamma-Ray Emission from the Crab Nebula: Short Flares and Long \"Waves \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2013ApJ...765...52S"
+            "https://ui.adsabs.harvard.edu/abs/2013NuPhS.239..193M/abstract"
           ]
         }
       ],
       "2012": [
         {
-          "text": "M.Cardillo, A.Giuliani, M. Tavani, 2012, PhCS, 383, 0122007-01220012, \" The SNR W44: an ideal laboratory for Cosmic-Ray acceleration \"",
+          "text": "M.Cardillo, A.Giuliani, M. Tavani, 2012, PhCS, 383, 0122007-01220012: \"The SNR W44: an ideal laboratory for Cosmic-Ray acceleration\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2012JPhCS.383a2007C"
+            "https://ui.adsabs.harvard.edu/abs/2012JPhCS.383a2007C/abstract"
           ]
         },
         {
-          "text": "F. Longo et al., AGILE COLLABORATION, 2012, A&A, 547, 95L, \" Upper limits on the high- energy emission from gamma-ray bursts observed by AGILE-GRID \"",
+          "text": "M.Cardillo, A.Giuliani, M.Tavani, 2012, AIP, 1505, 221-224: \"AGILE and SNRs: A comparison between W44 and W28\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2012A%26A...547A..95L"
-          ]
-        },
-        {
-          "text": "G. Piano et al., AGILE COLLABORATION, 2012, A&A, 545, 110P, \" The AGILE monitoring of Cygnus X-3: transient gamma-ray emission and spectral constraints \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2012A%26A...545A.110P"
-          ]
-        },
-        {
-          "text": "M.Cardillo, A.Giuliani, M.Tavani, 2012, \" AGILE and SNRs: A comparison between W44 and W28\", AIP, 1505, 221-224",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2012AIPC.1505..221C"
+            "https://ui.adsabs.harvard.edu/abs/2012AIPC.1505..221C/abstract"
           ]
         }
       ],
       "2011": [
         {
-          "text": "E. Striani et al., AGILE COLLABORATION, 2011, ApJ, 741, 5S, \" The Crab Nebula Super-flare in 2011 April: Extremely Fast Particle Acceleration and Gamma-Ray Emission \"",
+          "text": "A. Giuliani, M.Cardillo and M.Tavani, 2011, eConf C110509 (Fermi Symposium), arXiv:1111.3592: \"AGILE observations of Supernova Remnants\"",
           "links": [
-            "http://adsabs.harvard.edu/abs/2011ApJ...741L...5S"
-          ]
-        },
-        {
-          "text": "S. Vercellone et al., AGILE COLLABORATION, 2011, ApJ, 736, 38V, \" The Brightest Gamma- Ray Flaring Blazar in the Sky: AGILE and Multi-wavelength Observations of 3C 454.3 During 2010 November \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2011ApJ...736L..38V"
-          ]
-        },
-        {
-          "text": "A. Giuliani, M.Cardillo, M.Tavani et al., 2011, ApJ, 742, L30, \" Neutral pion emission from accelerated protons in the Supernova Ramnant W44 \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2011ApJ...742L..30G"
-          ]
-        },
-        {
-          "text": "A. Giuliani, M.Cardillo and M.Tavani, 2011, \" AGILE observations of Supernova Remnants \", Fermi Symposium proceedings - eConf C110509, arXiv1111.3592",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2011arXiv1111.3592G"
+            "https://ui.adsabs.harvard.edu/abs/2011arXiv1111.3592G/abstract"
           ]
         }
       ],
       "2010": [
         {
-          "text": "A.Giuliani, M. Tavani, A. Bulgarelli, E. Striani, S. Sabatini, M. Cardillo et al, AGILE COLLABORATION, 2010, A&A, 516L, 11G, \" AGILE detection of GeV gamma-ray emission from the SNR W28 \"",
-          "links": [
-            "http://adsabs.harvard.edu/abs/2010A%26A...516L..11GProceedings:"
-          ]
-        },
-        {
           "text": "A. Giuliani, M. Tavani, G. Piano, M. Cardillo et al, 2010, \" Middle-aged Supernova Remnants with AGILE \", tsra.confE, 125 Honours and awards [2014] ARAP prize (Associazione Romana per le Astro-Particelle) 2013 I won this award for my PhD thesis: \"The origin of cosmic-rays in Supernova Remnants: new challenges after a breakthrough\" and (in italian) \"per aver concorso, all'interno della Collaborazione AGILE alla scoperta della natura adronica dei segnali gamma di alta energia da resti di Supernovae\". Fellowship of the Angelo Della Riccia fundation. I won this fellowship to go 6 months in France at Laboratoire APC - CNRS/Universit\u00e9 Paris 7 Denis Diderot and work with Dr Stefano Gabici. I declined this fellowship because I won a post- doc position for two years at the Osservatorio Astrofisico di Arcetri.",
           "links": [
-            "http://adsabs.harvard.edu/abs/2010tsra.confE.125G"
-          ]
-        }
-      ],
-      "2025": [
-        {
-          "text": "Abe, K. et al.: \"GRB 221009A: Observations with LST-1 of CTAO and Implications for Structured Jets in Long Gamma-Ray Bursts\"",
-          "links": [
-            "https://doi.org/10.3847/2041-8213/ade4cf"
-          ]
-        },
-        {
-          "text": "Abe, K. et al. \"Detection of the Geminga pulsar at energies down to 20 GeV with the LST-1 of CTAO\"",
-          "links": [
-            "https://doi.org/10.1051/0004-6361/202554350"
-          ]
-        },
-        {
-          "text": "Abe, K. et al. \"Detection of RS Oph with LST-1 and modelling of its HE/VHE gamma-ray emission\"",
-          "links": [
-            "https://doi.org/10.1051/0004-6361/202452447"
+            "https://ui.adsabs.harvard.edu/abs/2010tsra.confE.125G/abstract"
           ]
         }
       ]

@@ -127,7 +127,7 @@
       "publications": "Pubblicazioni scientifiche",
       "outreach": "Didattica e Divulgazione",
       "news": "News e aggiornamenti",
-      "publicationsDesc": "Elenco per anno con DOI e link.",
+      "publicationsDesc": "Elenco per anno con link.",
       "outreachDesc": "Attivit\u00e0 divulgative e didattiche con risorse online.",
       "newsDesc": "Nuovi paper, bandi, collaborazioni e attivit\u00e0 recenti."
     }
@@ -140,9 +140,10 @@
   },
   "publicationsPage": {
     "title": "Pubblicazioni scientifiche",
-    "intro": "Elenco per anno delle pubblicazioni peer-reviewed con DOI e link.",
+    "intro": "Elenco per anno delle pubblicazioni peer-reviewed con link.",
     "cardilloTitle": "Pubblicazioni principali",
-    "byYearTitle": "Altre pubblicazioni per anno"
+    "byYearTitle": "Altre pubblicazioni per anno",
+    "proceedingsTitle": "Atti di convegno"
   },
   "outreachPage": {
     "title": "Didattica e Divulgazione",
@@ -240,8 +241,8 @@
   "labels": {
     "download": "Scarica",
     "open": "Apri",
-    "doi": "DOI",
-    "link": "Link",
+    "doi": "link",
+    "link": "link",
     "skip": "Salta al contenuto"
   }
 }

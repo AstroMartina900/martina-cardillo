@@ -127,7 +127,7 @@
       "publications": "Scientific publications",
       "outreach": "Teaching & Outreach",
       "news": "News & updates",
-      "publicationsDesc": "Year-by-year list with DOI and links.",
+      "publicationsDesc": "Year-by-year list with links.",
       "outreachDesc": "Outreach and teaching activities with online resources.",
       "newsDesc": "New papers, projects, collaborations, and recent activities."
     }
@@ -140,9 +140,10 @@
   },
   "publicationsPage": {
     "title": "Scientific publications",
-    "intro": "Peer-reviewed publications by year, with DOI and links.",
+    "intro": "Peer-reviewed publications by year, with links.",
     "cardilloTitle": "Featured publications",
-    "byYearTitle": "Other publications by year"
+    "byYearTitle": "Other publications by year",
+    "proceedingsTitle": "Conference proceedings"
   },
   "outreachPage": {
     "title": "Teaching & Outreach",
@@ -240,8 +241,8 @@
   "labels": {
     "download": "Download",
     "open": "Open",
-    "doi": "DOI",
-    "link": "Link",
+    "doi": "link",
+    "link": "link",
     "skip": "Skip to content"
   }
 }
