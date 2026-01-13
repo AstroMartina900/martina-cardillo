@@ -498,15 +498,22 @@ const applyContent = (common, content) => {
       content.labels,
     );
     const featuredSet = new Set(cardilloItems.map((item) => item.text));
-    const filteredByYear = Object.fromEntries(
-      Object.entries(byYear).map(([year, items]) => [
-        year,
-        (items || []).filter((item) => !featuredSet.has(item.text)),
-      ]),
-    );
+      const filteredByYear = Object.fromEntries(
+        Object.entries(byYear)
+          .map(([year, items]) => [
+            year,
+            (items || []).filter((item) => !featuredSet.has(item.text)),
+          ])
+          .filter(([, items]) => items.length > 0),
+      );
     renderYearGroups(
       document.getElementById("publications-list"),
       filteredByYear,
+      content.labels,
+    );
+    renderYearGroups(
+      document.getElementById("publications-proceedings-list"),
+      common.publications.proceedingsByYear,
       content.labels,
     );
   }
