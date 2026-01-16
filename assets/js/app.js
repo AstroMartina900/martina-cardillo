@@ -472,6 +472,51 @@ const renderNews = (container, items, labels) => {
     .join("");
 };
 
+const stripMarkdownLinks = (text) =>
+  text.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, "$1");
+
+const getNewsSummary = (body) => {
+  if (!body) return "";
+  const plain = stripMarkdownLinks(body);
+  const firstBlock = plain.split(/\n\s*\n/)[0] || "";
+  return firstBlock.trim();
+};
+
+const renderNewsBanner = (container, items, lang) => {
+  if (!container || !items) return;
+  const now = new Date();
+  const weekMs = 7 * 24 * 60 * 60 * 1000;
+  const recentItems = items
+    .map((item) => {
+      const dateValue = item.date ? new Date(item.date) : null;
+      if (!dateValue || Number.isNaN(dateValue.getTime())) return null;
+      return { item, dateValue };
+    })
+    .filter(Boolean)
+    .filter(({ dateValue }) => now - dateValue <= weekMs && now >= dateValue)
+    .sort((a, b) => b.dateValue - a.dateValue);
+
+  if (!recentItems.length) return;
+
+  const { item, dateValue } = recentItems[0];
+  const title = container.querySelector("#news-banner-title");
+  const summary = container.querySelector("#news-banner-summary");
+  const dateEl = container.querySelector("#news-banner-date");
+  const link = container.querySelector("#news-banner-link");
+  const formattedDate = new Intl.DateTimeFormat(lang, {
+    day: "2-digit",
+    month: "long",
+    year: "numeric",
+  }).format(dateValue);
+
+  if (title) title.textContent = item.title || "";
+  if (summary) summary.textContent = getNewsSummary(item.body);
+  if (dateEl) dateEl.textContent = formattedDate;
+  if (link) link.href = item.link || "pages/news.html";
+
+  container.hidden = false;
+};
+
 const applyContent = (common, content) => {
   document.documentElement.lang = content.lang;
   const page = document.body.dataset.page;
@@ -557,6 +602,13 @@ const applyContent = (common, content) => {
     content.news.items,
     content.labels,
   );
+  if (page === "home") {
+    renderNewsBanner(
+      document.getElementById("news-banner"),
+      content.news.items,
+      content.lang,
+    );
+  }
 
   setLanguageButtons(content.lang);
 };
