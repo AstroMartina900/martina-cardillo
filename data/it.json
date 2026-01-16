@@ -156,6 +156,10 @@
     "title": "News e aggiornamenti",
     "intro": "Nuovi paper, bandi/progetti, collaborazioni e attivit\u00e0 divulgative."
   },
+  "newsBanner": {
+    "tag": "Notizia fresca fresca",
+    "cta": "Leggi la news"
+  },
   "teaching": {
     "items": [
       {
@@ -191,6 +195,7 @@
         "year": "2026",
         "category": "Notizie Scientifiche di rilievo",
         "title": "La prima volta di ASTRI-1",
+        "date": "2026-01-16",
         "body": "Il primo telescopio dell'[ASTRI Mini-Array](https://www.astri.inaf.it/), ASTRI-1, ha comunicato per la prima volta la sua presenza alla comunit\u00e0 scientifica tramite il telegramma che ha evidenziato la sua rivelazione di un flare gamma del blazar Markarian 421.\n\nCongratulazioni a tutt3, in particolare al mio dottorando Alan che \u00e8 stato tra coloro che hanno curato la presa dati durante quella notte.\n\nE siamo solo all'inizio... Vedrete quando li avremo tutti e nove funzionanti!\n\nDaje ASTRI!",
         "link": "https://www.astri.inaf.it/index.php/prima-meta-per-astri/2026/"
       },
