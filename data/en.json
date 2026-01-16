@@ -188,6 +188,13 @@
   "news": {
     "items": [
       {
+        "year": "2026",
+        "category": "Scientific Highlights",
+        "title": "The first time for ASTRI-1",
+        "body": "The first telescope of the [ASTRI Mini-Array](https://www.astri.inaf.it/), ASTRI-1, announced its presence to the scientific community for the first time via a telegram that reported its detection of a gamma-ray flare from the blazar Markarian 421.\n\nCongratulations to everyone, especially my PhD student Alan, who was among those taking data that night.\n\nAnd this is only the beginning... just wait until all nine are up and running!\n\nDaje ASTRI!",
+        "link": "https://www.astri.inaf.it/index.php/prima-meta-per-astri/2026/"
+      },
+      {
         "year": "2025",
         "category": "Invited talk",
         "title": "KPS Fall Meeting (Gwangju, South Korea)",
