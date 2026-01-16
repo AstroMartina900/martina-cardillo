@@ -430,6 +430,30 @@ const renderNews = (container, items, labels) => {
   if (!container || !items) return;
   container.innerHTML = items
     .map((item) => {
+      const rawBody = item.body || "";
+      const linkTokens = [];
+      const withTokens = rawBody.replace(
+        /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
+        (_, text, url) => {
+          const token = `__NEWS_LINK_${linkTokens.length}__`;
+          linkTokens.push({ text, url });
+          return token;
+        },
+      );
+      let body = escapeHtml(withTokens)
+        .replace(/(https?:\/\/[^\s<]+)/g, (match) => {
+          return `<a href="${match}" target="_blank" rel="noopener">${match}</a>`;
+        });
+      linkTokens.forEach(({ text, url }, index) => {
+        const token = `__NEWS_LINK_${index}__`;
+        const label = escapeHtml(text);
+        const href = escapeHtml(url);
+        body = body.replace(
+          token,
+          `<a href="${href}" target="_blank" rel="noopener">${label}</a>`,
+        );
+      });
+      body = body.replace(/\r?\n/g, "<br>");
       const link =
         item.link &&
         `<a href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(labels.open)}</a>`;
@@ -440,7 +464,7 @@ const renderNews = (container, items, labels) => {
             <span class="count">${escapeHtml(item.year)}</span>
           </div>
           <h3>${escapeHtml(item.title)}</h3>
-          <p>${escapeHtml(item.body)}</p>
+          <p>${body}</p>
           ${link || ""}
         </li>
       `;
